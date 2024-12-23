@@ -5,8 +5,8 @@
 // ===============================
 
 ## NOTE THAT ODDEN NUMBERS MAY BE NOT ACCURATE! (BE CAREFUL)
-## EVEN NUMBERS ARE SAFE!
-
+## EVEN NUMBERS ARE SAFE! 
+## Line 1000 Starts Auras!
 
 Advanced -> Rbs: 10 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Advanced -> Rbs: 72 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
