@@ -8,26 +8,25 @@
 ## EVEN NUMBERS ARE SAFE!
 
 
-Pets Data:
 Advanced -> Rbs: 10 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Advanced -> Rbs: 72 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 164 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 287 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 441 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 595 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 749 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 903 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 1056 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 1210 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 1364 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 1518 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 1672 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 1826 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 160 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 280 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 440 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 580 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 740 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 900 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 1060 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 1200 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 1360 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 1520 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 1680 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 1820 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Advanced -> Rbs: 1980 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 2133 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 2287 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 2441 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 2595 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 2120 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 2280 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 2440 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 2580 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Advanced -> Rbs: 2480 (Rock: Golden in Spawn)
 Advanced -> Rbs: 7480 (Rock: Golden in Spawn)
 Advanced -> Rbs: 14980 (Rock: Golden in Spawn)
@@ -294,25 +293,25 @@ Rare -> Rbs: 4180 (Rock: Mountain in Muscle)
 Rare -> Rbs: 4480 (Rock: Mountain in Muscle)
 Rare -> Rbs: 4780 (Rock: Mountain in Muscle)
 Rare -> Rbs: 5080 (Rock: Mountain in Muscle)
-Rare -> Rbs: 26 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 118 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 256 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 441 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 672 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 903 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 1133 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 1364 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 1595 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 1826 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 2056 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 2287 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 2518 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 2749 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 20 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 120 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 260 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 440 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 680 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 900 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 1120 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 1360 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 1580 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 1820 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 2060 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 2280 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 2520 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 2740 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Rare -> Rbs: 2980 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Rare -> Rbs: 3210 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 3441 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 3672 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 3903 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 3440 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 3670 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 3900 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Rare -> Rbs: 14980 (Rock: Punching in Spawn)
 Rare -> Rbs: 44980 (Rock: Punching in Spawn)
 Rare -> Rbs: 89980 (Rock: Punching in Spawn)
@@ -446,24 +445,24 @@ Epic -> Rbs: 5580 (Rock: Mountain in Muscle)
 Epic -> Rbs: 5980 (Rock: Mountain in Muscle)
 Epic -> Rbs: 6380 (Rock: Mountain in Muscle)
 Epic -> Rbs: 6780 (Rock: Mountain in Muscle)
-Epic -> Rbs: 41 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 164 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 349 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 595 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 903 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 40 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 160 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 340 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 580 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 900 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Epic -> Rbs: 1210 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 1518 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 1826 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 2133 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 2441 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 2749 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 3056 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 3364 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 3672 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 1520 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 1820 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 2120 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 2440 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 2740 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 3060 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 3360 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 3680 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Epic -> Rbs: 3980 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 4287 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 4595 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 4903 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 4280 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 4580 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 4900 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Epic -> Rbs: 5210 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Epic -> Rbs: 4980 (Rock: Golden in Spawn)
 Epic -> Rbs: 14980 (Rock: Golden in Spawn)
@@ -769,27 +768,6 @@ Unique -> Rbs: 10440 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP N
 Unique -> Rbs: 11740 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Unique -> Rbs: 13120 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Unique -> Rbs: 14580 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-
-
-----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
-                                   _   _   _ ____      _    
-                                  / \ | | | |  _ \    / \   
-                                 / _ \| | | | |_) |  / _ \  
-                                / ___ \ |_| |  _ <  / ___ \ 
-                               /_/   \_\___/|_| \_\/_/   \_\
-----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
------->
-
-
-
 Basic -> Rbs: 0 (Rock: Mountain in Muscle)
 Basic -> Rbs: 40 (Rock: Mountain in Muscle)
 Basic -> Rbs: 100 (Rock: Mountain in Muscle)
@@ -812,22 +790,22 @@ Basic -> Rbs: 1680 (Rock: Mountain in Muscle)
 Basic -> Rbs: -5 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Basic -> Rbs: 26 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Basic -> Rbs: 72 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Basic -> Rbs: 133 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Basic -> Rbs: 120 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Basic -> Rbs: 210 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Basic -> Rbs: 287 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Basic -> Rbs: 364 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Basic -> Rbs: 441 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Basic -> Rbs: 518 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Basic -> Rbs: 595 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Basic -> Rbs: 672 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Basic -> Rbs: 749 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Basic -> Rbs: 826 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Basic -> Rbs: 903 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Basic -> Rbs: 280 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Basic -> Rbs: 360 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Basic -> Rbs: 440 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Basic -> Rbs: 520 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Basic -> Rbs: 580 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Basic -> Rbs: 680 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Basic -> Rbs: 740 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Basic -> Rbs: 820 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Basic -> Rbs: 900 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Basic -> Rbs: 980 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Basic -> Rbs: 1056 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Basic -> Rbs: 1133 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Basic -> Rbs: 1210 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Basic -> Rbs: 1287 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Basic -> Rbs: 1060 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Basic -> Rbs: 1120 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Basic -> Rbs: 1200 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Basic -> Rbs: 1280 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Basic -> Rbs: 4980 (Rock: Punching in Spawn)
 Basic -> Rbs: 14980 (Rock: Punching in Spawn)
 Basic -> Rbs: 29980 (Rock: Punching in Spawn)
@@ -980,7 +958,46 @@ Basic -> Rbs: 6980 (Rock: Legendary in Legends)
 Basic -> Rbs: 7480 (Rock: Legendary in Legends)
 Basic -> Rbs: 7980 (Rock: Legendary in Legends)
 Basic -> Rbs: 8480 (Rock: Legendary in Legends)
-Auras Data:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Advanced -> Rbs: 3180 (Rock: Frozen in Frost)
 Advanced -> Rbs: 9580 (Rock: Frozen in Frost)
 Advanced -> Rbs: 19180 (Rock: Frozen in Frost)
@@ -1076,25 +1093,25 @@ Advanced -> Rbs: 6700 (Rock: Mountain in Muscle)
 Advanced -> Rbs: 7180 (Rock: Mountain in Muscle)
 Advanced -> Rbs: 7660 (Rock: Mountain in Muscle)
 Advanced -> Rbs: 8140 (Rock: Mountain in Muscle)
-Advanced -> Rbs: 53 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 201 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 423 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 718 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 1087 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 1456 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 1826 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 2195 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 2564 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 2933 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 3303 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 3672 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 4041 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 52 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 200 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 420 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 720 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 1080 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 1460 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 1820 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 2180 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 2560 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 2920 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 3300 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 3680 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 4040 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Advanced -> Rbs: 4410 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Advanced -> Rbs: 4780 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 5149 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 5518 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 5887 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Advanced -> Rbs: 6256 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 5140 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 5520 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 5880 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Advanced -> Rbs: 6260 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Advanced -> Rbs: 23980 (Rock: Punching in Spawn)
 Advanced -> Rbs: 71980 (Rock: Punching in Spawn)
 Advanced -> Rbs: 143980 (Rock: Punching in Spawn)
@@ -1266,25 +1283,25 @@ Rare -> Rbs: 10060 (Rock: Mountain in Muscle)
 Rare -> Rbs: 10780 (Rock: Mountain in Muscle)
 Rare -> Rbs: 11500 (Rock: Mountain in Muscle)
 Rare -> Rbs: 12220 (Rock: Mountain in Muscle)
-Rare -> Rbs: 90 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 312 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 644 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 1087 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 1641 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 2195 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 2749 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 3303 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 3856 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 80 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 320 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 640 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 1080 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 1640 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 2180 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 2740 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 3300 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 3860 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Rare -> Rbs: 4410 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 4964 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 5518 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 6072 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 6626 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 4960 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 552ß (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 6080 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 6620 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Rare -> Rbs: 7180 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 7733 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 8287 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 8841 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Rare -> Rbs: 9395 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 7720 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 8280 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 8840 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Rare -> Rbs: 9380 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Rare -> Rbs: 35980 (Rock: Punching in Spawn)
 Rare -> Rbs: 107980 (Rock: Punching in Spawn)
 Rare -> Rbs: 215980 (Rock: Punching in Spawn)
@@ -1532,25 +1549,25 @@ Epic -> Rbs: 13420 (Rock: Mountain in Muscle)
 Epic -> Rbs: 14380 (Rock: Mountain in Muscle)
 Epic -> Rbs: 15340 (Rock: Mountain in Muscle)
 Epic -> Rbs: 16300 (Rock: Mountain in Muscle)
-Epic -> Rbs: 127 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 423 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 866 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 1456 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 2195 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 2933 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 3672 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 120 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 420 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 860 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 1460 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 2180 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 2920 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 3680 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Epic -> Rbs: 4410 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 5149 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 5887 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 6626 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 7364 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 8103 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 8841 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 5140 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 5880 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 6620 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 7360 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 8100 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 8840 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Epic -> Rbs: 9580 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 10318 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 11056 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 11795 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
-Epic -> Rbs: 12533 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 10320 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 11060 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 11780 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
+Epic -> Rbs: 12520 (Rock: Ancient Jungle in Jungle) -- YOU GOTTA FIND THE XP NEEDED FOR IT BUT IT WORKS
 Unique -> Rbs: 220 (Rock: Mountain in Muscle)
 Unique -> Rbs: 580 (Rock: Mountain in Muscle)
 Unique -> Rbs: 1060 (Rock: Mountain in Muscle)
