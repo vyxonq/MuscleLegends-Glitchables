@@ -1,0 +1,25 @@
+// ===============================
+// GitHub: https://github.com/0xnyxo
+// Multipliers
+// Discord: @0xnyxo (Aka Vyxon)
+// ===============================
+
+Worlds:
+  Spawn:
+    Punching: 0.05
+    Tiny: 0.025
+    Golden: 0.2
+  Tiny:
+    Rock: 0.025
+  Frost:
+    Frozen: 0.375
+  Mythical:
+    Mystic: 0.75
+  Eternal:
+    Inferno: 1.125
+  Legends:
+    Legendary: 2.5
+  Muscle:
+    Mountain: 12.5
+  Jungle:
+    Ancient Jungle: 16.25
