@@ -1,0 +1,11462 @@
+[
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Jungle",
+    "rock": "Ancient Jungle",
+    "xp": 500,
+    "rebirths": 10,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 10
+      },
+      {
+        "step": 1,
+        "rebirths": 5
+      },
+      {
+        "step": 2,
+        "rebirths": 2
+      },
+      {
+        "step": 3,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 500,
+    "rebirths": 20,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 20
+      },
+      {
+        "step": 1,
+        "rebirths": 10
+      },
+      {
+        "step": 2,
+        "rebirths": 5
+      },
+      {
+        "step": 3,
+        "rebirths": 2
+      },
+      {
+        "step": 4,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Jungle",
+    "rock": "Ancient Jungle",
+    "xp": 1500,
+    "rebirths": 72,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 72
+      },
+      {
+        "step": 1,
+        "rebirths": 36
+      },
+      {
+        "step": 2,
+        "rebirths": 18
+      },
+      {
+        "step": 3,
+        "rebirths": 9
+      },
+      {
+        "step": 4,
+        "rebirths": 4
+      },
+      {
+        "step": 5,
+        "rebirths": 2
+      },
+      {
+        "step": 6,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 1500,
+    "rebirths": 100,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 100
+      },
+      {
+        "step": 1,
+        "rebirths": 50
+      },
+      {
+        "step": 2,
+        "rebirths": 25
+      },
+      {
+        "step": 3,
+        "rebirths": 12
+      },
+      {
+        "step": 4,
+        "rebirths": 6
+      },
+      {
+        "step": 5,
+        "rebirths": 3
+      },
+      {
+        "step": 6,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Jungle",
+    "rock": "Ancient Jungle",
+    "xp": 3000,
+    "rebirths": 164,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 164
+      },
+      {
+        "step": 1,
+        "rebirths": 82
+      },
+      {
+        "step": 2,
+        "rebirths": 41
+      },
+      {
+        "step": 3,
+        "rebirths": 20
+      },
+      {
+        "step": 4,
+        "rebirths": 10
+      },
+      {
+        "step": 5,
+        "rebirths": 5
+      },
+      {
+        "step": 6,
+        "rebirths": 2
+      },
+      {
+        "step": 7,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 500,
+    "rebirths": 180,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 180
+      },
+      {
+        "step": 1,
+        "rebirths": 90
+      },
+      {
+        "step": 2,
+        "rebirths": 45
+      },
+      {
+        "step": 3,
+        "rebirths": 22
+      },
+      {
+        "step": 4,
+        "rebirths": 11
+      },
+      {
+        "step": 5,
+        "rebirths": 5
+      },
+      {
+        "step": 6,
+        "rebirths": 2
+      },
+      {
+        "step": 7,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 3000,
+    "rebirths": 220,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 220
+      },
+      {
+        "step": 1,
+        "rebirths": 110
+      },
+      {
+        "step": 2,
+        "rebirths": 55
+      },
+      {
+        "step": 3,
+        "rebirths": 27
+      },
+      {
+        "step": 4,
+        "rebirths": 13
+      },
+      {
+        "step": 5,
+        "rebirths": 6
+      },
+      {
+        "step": 6,
+        "rebirths": 3
+      },
+      {
+        "step": 7,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 5000,
+    "rebirths": 380,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 380
+      },
+      {
+        "step": 1,
+        "rebirths": 190
+      },
+      {
+        "step": 2,
+        "rebirths": 95
+      },
+      {
+        "step": 3,
+        "rebirths": 47
+      },
+      {
+        "step": 4,
+        "rebirths": 23
+      },
+      {
+        "step": 5,
+        "rebirths": 11
+      },
+      {
+        "step": 6,
+        "rebirths": 5
+      },
+      {
+        "step": 7,
+        "rebirths": 2
+      },
+      {
+        "step": 8,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Eternal",
+    "rock": "Inferno",
+    "xp": 500,
+    "rebirths": 424,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 424
+      },
+      {
+        "step": 1,
+        "rebirths": 212
+      },
+      {
+        "step": 2,
+        "rebirths": 106
+      },
+      {
+        "step": 3,
+        "rebirths": 53
+      },
+      {
+        "step": 4,
+        "rebirths": 26
+      },
+      {
+        "step": 5,
+        "rebirths": 13
+      },
+      {
+        "step": 6,
+        "rebirths": 6
+      },
+      {
+        "step": 7,
+        "rebirths": 3
+      },
+      {
+        "step": 8,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 7500,
+    "rebirths": 580,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 580
+      },
+      {
+        "step": 1,
+        "rebirths": 290
+      },
+      {
+        "step": 2,
+        "rebirths": 145
+      },
+      {
+        "step": 3,
+        "rebirths": 72
+      },
+      {
+        "step": 4,
+        "rebirths": 36
+      },
+      {
+        "step": 5,
+        "rebirths": 18
+      },
+      {
+        "step": 6,
+        "rebirths": 9
+      },
+      {
+        "step": 7,
+        "rebirths": 4
+      },
+      {
+        "step": 8,
+        "rebirths": 2
+      },
+      {
+        "step": 9,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 1500,
+    "rebirths": 580,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 580
+      },
+      {
+        "step": 1,
+        "rebirths": 290
+      },
+      {
+        "step": 2,
+        "rebirths": 145
+      },
+      {
+        "step": 3,
+        "rebirths": 72
+      },
+      {
+        "step": 4,
+        "rebirths": 36
+      },
+      {
+        "step": 5,
+        "rebirths": 18
+      },
+      {
+        "step": 6,
+        "rebirths": 9
+      },
+      {
+        "step": 7,
+        "rebirths": 4
+      },
+      {
+        "step": 8,
+        "rebirths": 2
+      },
+      {
+        "step": 9,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Mythical",
+    "rock": "Mystic",
+    "xp": 500,
+    "rebirths": 646,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 646
+      },
+      {
+        "step": 1,
+        "rebirths": 323
+      },
+      {
+        "step": 2,
+        "rebirths": 161
+      },
+      {
+        "step": 3,
+        "rebirths": 80
+      },
+      {
+        "step": 4,
+        "rebirths": 40
+      },
+      {
+        "step": 5,
+        "rebirths": 20
+      },
+      {
+        "step": 6,
+        "rebirths": 10
+      },
+      {
+        "step": 7,
+        "rebirths": 5
+      },
+      {
+        "step": 8,
+        "rebirths": 2
+      },
+      {
+        "step": 9,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 10000,
+    "rebirths": 780,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 780
+      },
+      {
+        "step": 1,
+        "rebirths": 390
+      },
+      {
+        "step": 2,
+        "rebirths": 195
+      },
+      {
+        "step": 3,
+        "rebirths": 97
+      },
+      {
+        "step": 4,
+        "rebirths": 48
+      },
+      {
+        "step": 5,
+        "rebirths": 24
+      },
+      {
+        "step": 6,
+        "rebirths": 12
+      },
+      {
+        "step": 7,
+        "rebirths": 6
+      },
+      {
+        "step": 8,
+        "rebirths": 3
+      },
+      {
+        "step": 9,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 12500,
+    "rebirths": 980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 980
+      },
+      {
+        "step": 1,
+        "rebirths": 490
+      },
+      {
+        "step": 2,
+        "rebirths": 245
+      },
+      {
+        "step": 3,
+        "rebirths": 122
+      },
+      {
+        "step": 4,
+        "rebirths": 61
+      },
+      {
+        "step": 5,
+        "rebirths": 30
+      },
+      {
+        "step": 6,
+        "rebirths": 15
+      },
+      {
+        "step": 7,
+        "rebirths": 7
+      },
+      {
+        "step": 8,
+        "rebirths": 3
+      },
+      {
+        "step": 9,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Jungle",
+    "rock": "Ancient Jungle",
+    "xp": 17500,
+    "rebirths": 1056,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1056
+      },
+      {
+        "step": 1,
+        "rebirths": 528
+      },
+      {
+        "step": 2,
+        "rebirths": 264
+      },
+      {
+        "step": 3,
+        "rebirths": 132
+      },
+      {
+        "step": 4,
+        "rebirths": 66
+      },
+      {
+        "step": 5,
+        "rebirths": 33
+      },
+      {
+        "step": 6,
+        "rebirths": 16
+      },
+      {
+        "step": 7,
+        "rebirths": 8
+      },
+      {
+        "step": 8,
+        "rebirths": 4
+      },
+      {
+        "step": 9,
+        "rebirths": 2
+      },
+      {
+        "step": 10,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 3000,
+    "rebirths": 1180,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1180
+      },
+      {
+        "step": 1,
+        "rebirths": 590
+      },
+      {
+        "step": 2,
+        "rebirths": 295
+      },
+      {
+        "step": 3,
+        "rebirths": 147
+      },
+      {
+        "step": 4,
+        "rebirths": 73
+      },
+      {
+        "step": 5,
+        "rebirths": 36
+      },
+      {
+        "step": 6,
+        "rebirths": 18
+      },
+      {
+        "step": 7,
+        "rebirths": 9
+      },
+      {
+        "step": 8,
+        "rebirths": 4
+      },
+      {
+        "step": 9,
+        "rebirths": 2
+      },
+      {
+        "step": 10,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 15000,
+    "rebirths": 1180,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1180
+      },
+      {
+        "step": 1,
+        "rebirths": 590
+      },
+      {
+        "step": 2,
+        "rebirths": 295
+      },
+      {
+        "step": 3,
+        "rebirths": 147
+      },
+      {
+        "step": 4,
+        "rebirths": 73
+      },
+      {
+        "step": 5,
+        "rebirths": 36
+      },
+      {
+        "step": 6,
+        "rebirths": 18
+      },
+      {
+        "step": 7,
+        "rebirths": 9
+      },
+      {
+        "step": 8,
+        "rebirths": 4
+      },
+      {
+        "step": 9,
+        "rebirths": 2
+      },
+      {
+        "step": 10,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Jungle",
+    "rock": "Ancient Jungle",
+    "xp": 20000,
+    "rebirths": 1210,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1210
+      },
+      {
+        "step": 1,
+        "rebirths": 605
+      },
+      {
+        "step": 2,
+        "rebirths": 302
+      },
+      {
+        "step": 3,
+        "rebirths": 151
+      },
+      {
+        "step": 4,
+        "rebirths": 75
+      },
+      {
+        "step": 5,
+        "rebirths": 37
+      },
+      {
+        "step": 6,
+        "rebirths": 18
+      },
+      {
+        "step": 7,
+        "rebirths": 9
+      },
+      {
+        "step": 8,
+        "rebirths": 4
+      },
+      {
+        "step": 9,
+        "rebirths": 2
+      },
+      {
+        "step": 10,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Jungle",
+    "rock": "Ancient Jungle",
+    "xp": 22500,
+    "rebirths": 1364,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1364
+      },
+      {
+        "step": 1,
+        "rebirths": 682
+      },
+      {
+        "step": 2,
+        "rebirths": 341
+      },
+      {
+        "step": 3,
+        "rebirths": 170
+      },
+      {
+        "step": 4,
+        "rebirths": 85
+      },
+      {
+        "step": 5,
+        "rebirths": 42
+      },
+      {
+        "step": 6,
+        "rebirths": 21
+      },
+      {
+        "step": 7,
+        "rebirths": 10
+      },
+      {
+        "step": 8,
+        "rebirths": 5
+      },
+      {
+        "step": 9,
+        "rebirths": 2
+      },
+      {
+        "step": 10,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 17500,
+    "rebirths": 1380,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1380
+      },
+      {
+        "step": 1,
+        "rebirths": 690
+      },
+      {
+        "step": 2,
+        "rebirths": 345
+      },
+      {
+        "step": 3,
+        "rebirths": 172
+      },
+      {
+        "step": 4,
+        "rebirths": 86
+      },
+      {
+        "step": 5,
+        "rebirths": 43
+      },
+      {
+        "step": 6,
+        "rebirths": 21
+      },
+      {
+        "step": 7,
+        "rebirths": 10
+      },
+      {
+        "step": 8,
+        "rebirths": 5
+      },
+      {
+        "step": 9,
+        "rebirths": 2
+      },
+      {
+        "step": 10,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Jungle",
+    "rock": "Ancient Jungle",
+    "xp": 25000,
+    "rebirths": 1518,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1518
+      },
+      {
+        "step": 1,
+        "rebirths": 759
+      },
+      {
+        "step": 2,
+        "rebirths": 379
+      },
+      {
+        "step": 3,
+        "rebirths": 189
+      },
+      {
+        "step": 4,
+        "rebirths": 94
+      },
+      {
+        "step": 5,
+        "rebirths": 47
+      },
+      {
+        "step": 6,
+        "rebirths": 23
+      },
+      {
+        "step": 7,
+        "rebirths": 11
+      },
+      {
+        "step": 8,
+        "rebirths": 5
+      },
+      {
+        "step": 9,
+        "rebirths": 2
+      },
+      {
+        "step": 10,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 20000,
+    "rebirths": 1580,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1580
+      },
+      {
+        "step": 1,
+        "rebirths": 790
+      },
+      {
+        "step": 2,
+        "rebirths": 395
+      },
+      {
+        "step": 3,
+        "rebirths": 197
+      },
+      {
+        "step": 4,
+        "rebirths": 98
+      },
+      {
+        "step": 5,
+        "rebirths": 49
+      },
+      {
+        "step": 6,
+        "rebirths": 24
+      },
+      {
+        "step": 7,
+        "rebirths": 12
+      },
+      {
+        "step": 8,
+        "rebirths": 6
+      },
+      {
+        "step": 9,
+        "rebirths": 3
+      },
+      {
+        "step": 10,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Jungle",
+    "rock": "Ancient Jungle",
+    "xp": 27500,
+    "rebirths": 1672,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1672
+      },
+      {
+        "step": 1,
+        "rebirths": 836
+      },
+      {
+        "step": 2,
+        "rebirths": 418
+      },
+      {
+        "step": 3,
+        "rebirths": 209
+      },
+      {
+        "step": 4,
+        "rebirths": 104
+      },
+      {
+        "step": 5,
+        "rebirths": 52
+      },
+      {
+        "step": 6,
+        "rebirths": 26
+      },
+      {
+        "step": 7,
+        "rebirths": 13
+      },
+      {
+        "step": 8,
+        "rebirths": 6
+      },
+      {
+        "step": 9,
+        "rebirths": 3
+      },
+      {
+        "step": 10,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 22500,
+    "rebirths": 1780,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1780
+      },
+      {
+        "step": 1,
+        "rebirths": 890
+      },
+      {
+        "step": 2,
+        "rebirths": 445
+      },
+      {
+        "step": 3,
+        "rebirths": 222
+      },
+      {
+        "step": 4,
+        "rebirths": 111
+      },
+      {
+        "step": 5,
+        "rebirths": 55
+      },
+      {
+        "step": 6,
+        "rebirths": 27
+      },
+      {
+        "step": 7,
+        "rebirths": 13
+      },
+      {
+        "step": 8,
+        "rebirths": 6
+      },
+      {
+        "step": 9,
+        "rebirths": 3
+      },
+      {
+        "step": 10,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Jungle",
+    "rock": "Ancient Jungle",
+    "xp": 30000,
+    "rebirths": 1826,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1826
+      },
+      {
+        "step": 1,
+        "rebirths": 913
+      },
+      {
+        "step": 2,
+        "rebirths": 456
+      },
+      {
+        "step": 3,
+        "rebirths": 228
+      },
+      {
+        "step": 4,
+        "rebirths": 114
+      },
+      {
+        "step": 5,
+        "rebirths": 57
+      },
+      {
+        "step": 6,
+        "rebirths": 28
+      },
+      {
+        "step": 7,
+        "rebirths": 14
+      },
+      {
+        "step": 8,
+        "rebirths": 7
+      },
+      {
+        "step": 9,
+        "rebirths": 3
+      },
+      {
+        "step": 10,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Jungle",
+    "rock": "Ancient Jungle",
+    "xp": 32500,
+    "rebirths": 1980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1980
+      },
+      {
+        "step": 1,
+        "rebirths": 990
+      },
+      {
+        "step": 2,
+        "rebirths": 495
+      },
+      {
+        "step": 3,
+        "rebirths": 247
+      },
+      {
+        "step": 4,
+        "rebirths": 123
+      },
+      {
+        "step": 5,
+        "rebirths": 61
+      },
+      {
+        "step": 6,
+        "rebirths": 30
+      },
+      {
+        "step": 7,
+        "rebirths": 15
+      },
+      {
+        "step": 8,
+        "rebirths": 7
+      },
+      {
+        "step": 9,
+        "rebirths": 3
+      },
+      {
+        "step": 10,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 25000,
+    "rebirths": 1980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1980
+      },
+      {
+        "step": 1,
+        "rebirths": 990
+      },
+      {
+        "step": 2,
+        "rebirths": 495
+      },
+      {
+        "step": 3,
+        "rebirths": 247
+      },
+      {
+        "step": 4,
+        "rebirths": 123
+      },
+      {
+        "step": 5,
+        "rebirths": 61
+      },
+      {
+        "step": 6,
+        "rebirths": 30
+      },
+      {
+        "step": 7,
+        "rebirths": 15
+      },
+      {
+        "step": 8,
+        "rebirths": 7
+      },
+      {
+        "step": 9,
+        "rebirths": 3
+      },
+      {
+        "step": 10,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 5000,
+    "rebirths": 1980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1980
+      },
+      {
+        "step": 1,
+        "rebirths": 990
+      },
+      {
+        "step": 2,
+        "rebirths": 495
+      },
+      {
+        "step": 3,
+        "rebirths": 247
+      },
+      {
+        "step": 4,
+        "rebirths": 123
+      },
+      {
+        "step": 5,
+        "rebirths": 61
+      },
+      {
+        "step": 6,
+        "rebirths": 30
+      },
+      {
+        "step": 7,
+        "rebirths": 15
+      },
+      {
+        "step": 8,
+        "rebirths": 7
+      },
+      {
+        "step": 9,
+        "rebirths": 3
+      },
+      {
+        "step": 10,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Mythical",
+    "rock": "Mystic",
+    "xp": 1500,
+    "rebirths": 1980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1980
+      },
+      {
+        "step": 1,
+        "rebirths": 990
+      },
+      {
+        "step": 2,
+        "rebirths": 495
+      },
+      {
+        "step": 3,
+        "rebirths": 247
+      },
+      {
+        "step": 4,
+        "rebirths": 123
+      },
+      {
+        "step": 5,
+        "rebirths": 61
+      },
+      {
+        "step": 6,
+        "rebirths": 30
+      },
+      {
+        "step": 7,
+        "rebirths": 15
+      },
+      {
+        "step": 8,
+        "rebirths": 7
+      },
+      {
+        "step": 9,
+        "rebirths": 3
+      },
+      {
+        "step": 10,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 27500,
+    "rebirths": 2180,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 2180
+      },
+      {
+        "step": 1,
+        "rebirths": 1090
+      },
+      {
+        "step": 2,
+        "rebirths": 545
+      },
+      {
+        "step": 3,
+        "rebirths": 272
+      },
+      {
+        "step": 4,
+        "rebirths": 136
+      },
+      {
+        "step": 5,
+        "rebirths": 68
+      },
+      {
+        "step": 6,
+        "rebirths": 34
+      },
+      {
+        "step": 7,
+        "rebirths": 17
+      },
+      {
+        "step": 8,
+        "rebirths": 8
+      },
+      {
+        "step": 9,
+        "rebirths": 4
+      },
+      {
+        "step": 10,
+        "rebirths": 2
+      },
+      {
+        "step": 11,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 30000,
+    "rebirths": 2380,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 2380
+      },
+      {
+        "step": 1,
+        "rebirths": 1190
+      },
+      {
+        "step": 2,
+        "rebirths": 595
+      },
+      {
+        "step": 3,
+        "rebirths": 297
+      },
+      {
+        "step": 4,
+        "rebirths": 148
+      },
+      {
+        "step": 5,
+        "rebirths": 74
+      },
+      {
+        "step": 6,
+        "rebirths": 37
+      },
+      {
+        "step": 7,
+        "rebirths": 18
+      },
+      {
+        "step": 8,
+        "rebirths": 9
+      },
+      {
+        "step": 9,
+        "rebirths": 4
+      },
+      {
+        "step": 10,
+        "rebirths": 2
+      },
+      {
+        "step": 11,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 500,
+    "rebirths": 2480,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 2480
+      },
+      {
+        "step": 1,
+        "rebirths": 1240
+      },
+      {
+        "step": 2,
+        "rebirths": 620
+      },
+      {
+        "step": 3,
+        "rebirths": 310
+      },
+      {
+        "step": 4,
+        "rebirths": 155
+      },
+      {
+        "step": 5,
+        "rebirths": 77
+      },
+      {
+        "step": 6,
+        "rebirths": 38
+      },
+      {
+        "step": 7,
+        "rebirths": 19
+      },
+      {
+        "step": 8,
+        "rebirths": 9
+      },
+      {
+        "step": 9,
+        "rebirths": 4
+      },
+      {
+        "step": 10,
+        "rebirths": 2
+      },
+      {
+        "step": 11,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 32500,
+    "rebirths": 2580,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 2580
+      },
+      {
+        "step": 1,
+        "rebirths": 1290
+      },
+      {
+        "step": 2,
+        "rebirths": 645
+      },
+      {
+        "step": 3,
+        "rebirths": 322
+      },
+      {
+        "step": 4,
+        "rebirths": 161
+      },
+      {
+        "step": 5,
+        "rebirths": 80
+      },
+      {
+        "step": 6,
+        "rebirths": 40
+      },
+      {
+        "step": 7,
+        "rebirths": 20
+      },
+      {
+        "step": 8,
+        "rebirths": 10
+      },
+      {
+        "step": 9,
+        "rebirths": 5
+      },
+      {
+        "step": 10,
+        "rebirths": 2
+      },
+      {
+        "step": 11,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Eternal",
+    "rock": "Inferno",
+    "xp": 3000,
+    "rebirths": 2646,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 2646
+      },
+      {
+        "step": 1,
+        "rebirths": 1323
+      },
+      {
+        "step": 2,
+        "rebirths": 661
+      },
+      {
+        "step": 3,
+        "rebirths": 330
+      },
+      {
+        "step": 4,
+        "rebirths": 165
+      },
+      {
+        "step": 5,
+        "rebirths": 82
+      },
+      {
+        "step": 6,
+        "rebirths": 41
+      },
+      {
+        "step": 7,
+        "rebirths": 20
+      },
+      {
+        "step": 8,
+        "rebirths": 10
+      },
+      {
+        "step": 9,
+        "rebirths": 5
+      },
+      {
+        "step": 10,
+        "rebirths": 2
+      },
+      {
+        "step": 11,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 35000,
+    "rebirths": 2780,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 2780
+      },
+      {
+        "step": 1,
+        "rebirths": 1390
+      },
+      {
+        "step": 2,
+        "rebirths": 695
+      },
+      {
+        "step": 3,
+        "rebirths": 347
+      },
+      {
+        "step": 4,
+        "rebirths": 173
+      },
+      {
+        "step": 5,
+        "rebirths": 86
+      },
+      {
+        "step": 6,
+        "rebirths": 43
+      },
+      {
+        "step": 7,
+        "rebirths": 21
+      },
+      {
+        "step": 8,
+        "rebirths": 10
+      },
+      {
+        "step": 9,
+        "rebirths": 5
+      },
+      {
+        "step": 10,
+        "rebirths": 2
+      },
+      {
+        "step": 11,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 37500,
+    "rebirths": 2980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 2980
+      },
+      {
+        "step": 1,
+        "rebirths": 1490
+      },
+      {
+        "step": 2,
+        "rebirths": 745
+      },
+      {
+        "step": 3,
+        "rebirths": 372
+      },
+      {
+        "step": 4,
+        "rebirths": 186
+      },
+      {
+        "step": 5,
+        "rebirths": 93
+      },
+      {
+        "step": 6,
+        "rebirths": 46
+      },
+      {
+        "step": 7,
+        "rebirths": 23
+      },
+      {
+        "step": 8,
+        "rebirths": 11
+      },
+      {
+        "step": 9,
+        "rebirths": 5
+      },
+      {
+        "step": 10,
+        "rebirths": 2
+      },
+      {
+        "step": 11,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 7500,
+    "rebirths": 2980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 2980
+      },
+      {
+        "step": 1,
+        "rebirths": 1490
+      },
+      {
+        "step": 2,
+        "rebirths": 745
+      },
+      {
+        "step": 3,
+        "rebirths": 372
+      },
+      {
+        "step": 4,
+        "rebirths": 186
+      },
+      {
+        "step": 5,
+        "rebirths": 93
+      },
+      {
+        "step": 6,
+        "rebirths": 46
+      },
+      {
+        "step": 7,
+        "rebirths": 23
+      },
+      {
+        "step": 8,
+        "rebirths": 11
+      },
+      {
+        "step": 9,
+        "rebirths": 5
+      },
+      {
+        "step": 10,
+        "rebirths": 2
+      },
+      {
+        "step": 11,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 40000,
+    "rebirths": 3180,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 3180
+      },
+      {
+        "step": 1,
+        "rebirths": 1590
+      },
+      {
+        "step": 2,
+        "rebirths": 795
+      },
+      {
+        "step": 3,
+        "rebirths": 397
+      },
+      {
+        "step": 4,
+        "rebirths": 198
+      },
+      {
+        "step": 5,
+        "rebirths": 99
+      },
+      {
+        "step": 6,
+        "rebirths": 49
+      },
+      {
+        "step": 7,
+        "rebirths": 24
+      },
+      {
+        "step": 8,
+        "rebirths": 12
+      },
+      {
+        "step": 9,
+        "rebirths": 6
+      },
+      {
+        "step": 10,
+        "rebirths": 3
+      },
+      {
+        "step": 11,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Muscle",
+    "rock": "Mountain",
+    "xp": 42500,
+    "rebirths": 3380,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 3380
+      },
+      {
+        "step": 1,
+        "rebirths": 1690
+      },
+      {
+        "step": 2,
+        "rebirths": 845
+      },
+      {
+        "step": 3,
+        "rebirths": 422
+      },
+      {
+        "step": 4,
+        "rebirths": 211
+      },
+      {
+        "step": 5,
+        "rebirths": 105
+      },
+      {
+        "step": 6,
+        "rebirths": 52
+      },
+      {
+        "step": 7,
+        "rebirths": 26
+      },
+      {
+        "step": 8,
+        "rebirths": 13
+      },
+      {
+        "step": 9,
+        "rebirths": 6
+      },
+      {
+        "step": 10,
+        "rebirths": 3
+      },
+      {
+        "step": 11,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 10000,
+    "rebirths": 3980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 3980
+      },
+      {
+        "step": 1,
+        "rebirths": 1990
+      },
+      {
+        "step": 2,
+        "rebirths": 995
+      },
+      {
+        "step": 3,
+        "rebirths": 497
+      },
+      {
+        "step": 4,
+        "rebirths": 248
+      },
+      {
+        "step": 5,
+        "rebirths": 124
+      },
+      {
+        "step": 6,
+        "rebirths": 62
+      },
+      {
+        "step": 7,
+        "rebirths": 31
+      },
+      {
+        "step": 8,
+        "rebirths": 15
+      },
+      {
+        "step": 9,
+        "rebirths": 7
+      },
+      {
+        "step": 10,
+        "rebirths": 3
+      },
+      {
+        "step": 11,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Mythical",
+    "rock": "Mystic",
+    "xp": 3000,
+    "rebirths": 3980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 3980
+      },
+      {
+        "step": 1,
+        "rebirths": 1990
+      },
+      {
+        "step": 2,
+        "rebirths": 995
+      },
+      {
+        "step": 3,
+        "rebirths": 497
+      },
+      {
+        "step": 4,
+        "rebirths": 248
+      },
+      {
+        "step": 5,
+        "rebirths": 124
+      },
+      {
+        "step": 6,
+        "rebirths": 62
+      },
+      {
+        "step": 7,
+        "rebirths": 31
+      },
+      {
+        "step": 8,
+        "rebirths": 15
+      },
+      {
+        "step": 9,
+        "rebirths": 7
+      },
+      {
+        "step": 10,
+        "rebirths": 3
+      },
+      {
+        "step": 11,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Frost",
+    "rock": "Frozen",
+    "xp": 1500,
+    "rebirths": 3980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 3980
+      },
+      {
+        "step": 1,
+        "rebirths": 1990
+      },
+      {
+        "step": 2,
+        "rebirths": 995
+      },
+      {
+        "step": 3,
+        "rebirths": 497
+      },
+      {
+        "step": 4,
+        "rebirths": 248
+      },
+      {
+        "step": 5,
+        "rebirths": 124
+      },
+      {
+        "step": 6,
+        "rebirths": 62
+      },
+      {
+        "step": 7,
+        "rebirths": 31
+      },
+      {
+        "step": 8,
+        "rebirths": 15
+      },
+      {
+        "step": 9,
+        "rebirths": 7
+      },
+      {
+        "step": 10,
+        "rebirths": 3
+      },
+      {
+        "step": 11,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Eternal",
+    "rock": "Inferno",
+    "xp": 5000,
+    "rebirths": 4424,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 4424
+      },
+      {
+        "step": 1,
+        "rebirths": 2212
+      },
+      {
+        "step": 2,
+        "rebirths": 1106
+      },
+      {
+        "step": 3,
+        "rebirths": 553
+      },
+      {
+        "step": 4,
+        "rebirths": 276
+      },
+      {
+        "step": 5,
+        "rebirths": 138
+      },
+      {
+        "step": 6,
+        "rebirths": 69
+      },
+      {
+        "step": 7,
+        "rebirths": 34
+      },
+      {
+        "step": 8,
+        "rebirths": 17
+      },
+      {
+        "step": 9,
+        "rebirths": 8
+      },
+      {
+        "step": 10,
+        "rebirths": 4
+      },
+      {
+        "step": 11,
+        "rebirths": 2
+      },
+      {
+        "step": 12,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 12500,
+    "rebirths": 4980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 4980
+      },
+      {
+        "step": 1,
+        "rebirths": 2490
+      },
+      {
+        "step": 2,
+        "rebirths": 1245
+      },
+      {
+        "step": 3,
+        "rebirths": 622
+      },
+      {
+        "step": 4,
+        "rebirths": 311
+      },
+      {
+        "step": 5,
+        "rebirths": 155
+      },
+      {
+        "step": 6,
+        "rebirths": 77
+      },
+      {
+        "step": 7,
+        "rebirths": 38
+      },
+      {
+        "step": 8,
+        "rebirths": 19
+      },
+      {
+        "step": 9,
+        "rebirths": 9
+      },
+      {
+        "step": 10,
+        "rebirths": 4
+      },
+      {
+        "step": 11,
+        "rebirths": 2
+      },
+      {
+        "step": 12,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 15000,
+    "rebirths": 5980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 5980
+      },
+      {
+        "step": 1,
+        "rebirths": 2990
+      },
+      {
+        "step": 2,
+        "rebirths": 1495
+      },
+      {
+        "step": 3,
+        "rebirths": 747
+      },
+      {
+        "step": 4,
+        "rebirths": 373
+      },
+      {
+        "step": 5,
+        "rebirths": 186
+      },
+      {
+        "step": 6,
+        "rebirths": 93
+      },
+      {
+        "step": 7,
+        "rebirths": 46
+      },
+      {
+        "step": 8,
+        "rebirths": 23
+      },
+      {
+        "step": 9,
+        "rebirths": 11
+      },
+      {
+        "step": 10,
+        "rebirths": 5
+      },
+      {
+        "step": 11,
+        "rebirths": 2
+      },
+      {
+        "step": 12,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Mythical",
+    "rock": "Mystic",
+    "xp": 5000,
+    "rebirths": 6646,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 6646
+      },
+      {
+        "step": 1,
+        "rebirths": 3323
+      },
+      {
+        "step": 2,
+        "rebirths": 1661
+      },
+      {
+        "step": 3,
+        "rebirths": 830
+      },
+      {
+        "step": 4,
+        "rebirths": 415
+      },
+      {
+        "step": 5,
+        "rebirths": 207
+      },
+      {
+        "step": 6,
+        "rebirths": 103
+      },
+      {
+        "step": 7,
+        "rebirths": 51
+      },
+      {
+        "step": 8,
+        "rebirths": 25
+      },
+      {
+        "step": 9,
+        "rebirths": 12
+      },
+      {
+        "step": 10,
+        "rebirths": 6
+      },
+      {
+        "step": 11,
+        "rebirths": 3
+      },
+      {
+        "step": 12,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Eternal",
+    "rock": "Inferno",
+    "xp": 7500,
+    "rebirths": 6646,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 6646
+      },
+      {
+        "step": 1,
+        "rebirths": 3323
+      },
+      {
+        "step": 2,
+        "rebirths": 1661
+      },
+      {
+        "step": 3,
+        "rebirths": 830
+      },
+      {
+        "step": 4,
+        "rebirths": 415
+      },
+      {
+        "step": 5,
+        "rebirths": 207
+      },
+      {
+        "step": 6,
+        "rebirths": 103
+      },
+      {
+        "step": 7,
+        "rebirths": 51
+      },
+      {
+        "step": 8,
+        "rebirths": 25
+      },
+      {
+        "step": 9,
+        "rebirths": 12
+      },
+      {
+        "step": 10,
+        "rebirths": 6
+      },
+      {
+        "step": 11,
+        "rebirths": 3
+      },
+      {
+        "step": 12,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 17500,
+    "rebirths": 6980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 6980
+      },
+      {
+        "step": 1,
+        "rebirths": 3490
+      },
+      {
+        "step": 2,
+        "rebirths": 1745
+      },
+      {
+        "step": 3,
+        "rebirths": 872
+      },
+      {
+        "step": 4,
+        "rebirths": 436
+      },
+      {
+        "step": 5,
+        "rebirths": 218
+      },
+      {
+        "step": 6,
+        "rebirths": 109
+      },
+      {
+        "step": 7,
+        "rebirths": 54
+      },
+      {
+        "step": 8,
+        "rebirths": 27
+      },
+      {
+        "step": 9,
+        "rebirths": 13
+      },
+      {
+        "step": 10,
+        "rebirths": 6
+      },
+      {
+        "step": 11,
+        "rebirths": 3
+      },
+      {
+        "step": 12,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 1500,
+    "rebirths": 7480,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 7480
+      },
+      {
+        "step": 1,
+        "rebirths": 3740
+      },
+      {
+        "step": 2,
+        "rebirths": 1870
+      },
+      {
+        "step": 3,
+        "rebirths": 935
+      },
+      {
+        "step": 4,
+        "rebirths": 467
+      },
+      {
+        "step": 5,
+        "rebirths": 233
+      },
+      {
+        "step": 6,
+        "rebirths": 116
+      },
+      {
+        "step": 7,
+        "rebirths": 58
+      },
+      {
+        "step": 8,
+        "rebirths": 29
+      },
+      {
+        "step": 9,
+        "rebirths": 14
+      },
+      {
+        "step": 10,
+        "rebirths": 7
+      },
+      {
+        "step": 11,
+        "rebirths": 3
+      },
+      {
+        "step": 12,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Frost",
+    "rock": "Frozen",
+    "xp": 3000,
+    "rebirths": 7980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 7980
+      },
+      {
+        "step": 1,
+        "rebirths": 3990
+      },
+      {
+        "step": 2,
+        "rebirths": 1995
+      },
+      {
+        "step": 3,
+        "rebirths": 997
+      },
+      {
+        "step": 4,
+        "rebirths": 498
+      },
+      {
+        "step": 5,
+        "rebirths": 249
+      },
+      {
+        "step": 6,
+        "rebirths": 124
+      },
+      {
+        "step": 7,
+        "rebirths": 62
+      },
+      {
+        "step": 8,
+        "rebirths": 31
+      },
+      {
+        "step": 9,
+        "rebirths": 15
+      },
+      {
+        "step": 10,
+        "rebirths": 7
+      },
+      {
+        "step": 11,
+        "rebirths": 3
+      },
+      {
+        "step": 12,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 20000,
+    "rebirths": 7980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 7980
+      },
+      {
+        "step": 1,
+        "rebirths": 3990
+      },
+      {
+        "step": 2,
+        "rebirths": 1995
+      },
+      {
+        "step": 3,
+        "rebirths": 997
+      },
+      {
+        "step": 4,
+        "rebirths": 498
+      },
+      {
+        "step": 5,
+        "rebirths": 249
+      },
+      {
+        "step": 6,
+        "rebirths": 124
+      },
+      {
+        "step": 7,
+        "rebirths": 62
+      },
+      {
+        "step": 8,
+        "rebirths": 31
+      },
+      {
+        "step": 9,
+        "rebirths": 15
+      },
+      {
+        "step": 10,
+        "rebirths": 7
+      },
+      {
+        "step": 11,
+        "rebirths": 3
+      },
+      {
+        "step": 12,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Eternal",
+    "rock": "Inferno",
+    "xp": 10000,
+    "rebirths": 8868,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 8868
+      },
+      {
+        "step": 1,
+        "rebirths": 4434
+      },
+      {
+        "step": 2,
+        "rebirths": 2217
+      },
+      {
+        "step": 3,
+        "rebirths": 1108
+      },
+      {
+        "step": 4,
+        "rebirths": 554
+      },
+      {
+        "step": 5,
+        "rebirths": 277
+      },
+      {
+        "step": 6,
+        "rebirths": 138
+      },
+      {
+        "step": 7,
+        "rebirths": 69
+      },
+      {
+        "step": 8,
+        "rebirths": 34
+      },
+      {
+        "step": 9,
+        "rebirths": 17
+      },
+      {
+        "step": 10,
+        "rebirths": 8
+      },
+      {
+        "step": 11,
+        "rebirths": 4
+      },
+      {
+        "step": 12,
+        "rebirths": 2
+      },
+      {
+        "step": 13,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 22500,
+    "rebirths": 8980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 8980
+      },
+      {
+        "step": 1,
+        "rebirths": 4490
+      },
+      {
+        "step": 2,
+        "rebirths": 2245
+      },
+      {
+        "step": 3,
+        "rebirths": 1122
+      },
+      {
+        "step": 4,
+        "rebirths": 561
+      },
+      {
+        "step": 5,
+        "rebirths": 280
+      },
+      {
+        "step": 6,
+        "rebirths": 140
+      },
+      {
+        "step": 7,
+        "rebirths": 70
+      },
+      {
+        "step": 8,
+        "rebirths": 35
+      },
+      {
+        "step": 9,
+        "rebirths": 17
+      },
+      {
+        "step": 10,
+        "rebirths": 8
+      },
+      {
+        "step": 11,
+        "rebirths": 4
+      },
+      {
+        "step": 12,
+        "rebirths": 2
+      },
+      {
+        "step": 13,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 500,
+    "rebirths": 9980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 9980
+      },
+      {
+        "step": 1,
+        "rebirths": 4990
+      },
+      {
+        "step": 2,
+        "rebirths": 2495
+      },
+      {
+        "step": 3,
+        "rebirths": 1247
+      },
+      {
+        "step": 4,
+        "rebirths": 623
+      },
+      {
+        "step": 5,
+        "rebirths": 311
+      },
+      {
+        "step": 6,
+        "rebirths": 155
+      },
+      {
+        "step": 7,
+        "rebirths": 77
+      },
+      {
+        "step": 8,
+        "rebirths": 38
+      },
+      {
+        "step": 9,
+        "rebirths": 19
+      },
+      {
+        "step": 10,
+        "rebirths": 9
+      },
+      {
+        "step": 11,
+        "rebirths": 4
+      },
+      {
+        "step": 12,
+        "rebirths": 2
+      },
+      {
+        "step": 13,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Mythical",
+    "rock": "Mystic",
+    "xp": 7500,
+    "rebirths": 9980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 9980
+      },
+      {
+        "step": 1,
+        "rebirths": 4990
+      },
+      {
+        "step": 2,
+        "rebirths": 2495
+      },
+      {
+        "step": 3,
+        "rebirths": 1247
+      },
+      {
+        "step": 4,
+        "rebirths": 623
+      },
+      {
+        "step": 5,
+        "rebirths": 311
+      },
+      {
+        "step": 6,
+        "rebirths": 155
+      },
+      {
+        "step": 7,
+        "rebirths": 77
+      },
+      {
+        "step": 8,
+        "rebirths": 38
+      },
+      {
+        "step": 9,
+        "rebirths": 19
+      },
+      {
+        "step": 10,
+        "rebirths": 9
+      },
+      {
+        "step": 11,
+        "rebirths": 4
+      },
+      {
+        "step": 12,
+        "rebirths": 2
+      },
+      {
+        "step": 13,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 25000,
+    "rebirths": 9980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 9980
+      },
+      {
+        "step": 1,
+        "rebirths": 4990
+      },
+      {
+        "step": 2,
+        "rebirths": 2495
+      },
+      {
+        "step": 3,
+        "rebirths": 1247
+      },
+      {
+        "step": 4,
+        "rebirths": 623
+      },
+      {
+        "step": 5,
+        "rebirths": 311
+      },
+      {
+        "step": 6,
+        "rebirths": 155
+      },
+      {
+        "step": 7,
+        "rebirths": 77
+      },
+      {
+        "step": 8,
+        "rebirths": 38
+      },
+      {
+        "step": 9,
+        "rebirths": 19
+      },
+      {
+        "step": 10,
+        "rebirths": 9
+      },
+      {
+        "step": 11,
+        "rebirths": 4
+      },
+      {
+        "step": 12,
+        "rebirths": 2
+      },
+      {
+        "step": 13,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 27500,
+    "rebirths": 10980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 10980
+      },
+      {
+        "step": 1,
+        "rebirths": 5490
+      },
+      {
+        "step": 2,
+        "rebirths": 2745
+      },
+      {
+        "step": 3,
+        "rebirths": 1372
+      },
+      {
+        "step": 4,
+        "rebirths": 686
+      },
+      {
+        "step": 5,
+        "rebirths": 343
+      },
+      {
+        "step": 6,
+        "rebirths": 171
+      },
+      {
+        "step": 7,
+        "rebirths": 85
+      },
+      {
+        "step": 8,
+        "rebirths": 42
+      },
+      {
+        "step": 9,
+        "rebirths": 21
+      },
+      {
+        "step": 10,
+        "rebirths": 10
+      },
+      {
+        "step": 11,
+        "rebirths": 5
+      },
+      {
+        "step": 12,
+        "rebirths": 2
+      },
+      {
+        "step": 13,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 30000,
+    "rebirths": 11980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 11980
+      },
+      {
+        "step": 1,
+        "rebirths": 5990
+      },
+      {
+        "step": 2,
+        "rebirths": 2995
+      },
+      {
+        "step": 3,
+        "rebirths": 1497
+      },
+      {
+        "step": 4,
+        "rebirths": 748
+      },
+      {
+        "step": 5,
+        "rebirths": 374
+      },
+      {
+        "step": 6,
+        "rebirths": 187
+      },
+      {
+        "step": 7,
+        "rebirths": 93
+      },
+      {
+        "step": 8,
+        "rebirths": 46
+      },
+      {
+        "step": 9,
+        "rebirths": 23
+      },
+      {
+        "step": 10,
+        "rebirths": 11
+      },
+      {
+        "step": 11,
+        "rebirths": 5
+      },
+      {
+        "step": 12,
+        "rebirths": 2
+      },
+      {
+        "step": 13,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 32500,
+    "rebirths": 12980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 12980
+      },
+      {
+        "step": 1,
+        "rebirths": 6490
+      },
+      {
+        "step": 2,
+        "rebirths": 3245
+      },
+      {
+        "step": 3,
+        "rebirths": 1622
+      },
+      {
+        "step": 4,
+        "rebirths": 811
+      },
+      {
+        "step": 5,
+        "rebirths": 405
+      },
+      {
+        "step": 6,
+        "rebirths": 202
+      },
+      {
+        "step": 7,
+        "rebirths": 101
+      },
+      {
+        "step": 8,
+        "rebirths": 50
+      },
+      {
+        "step": 9,
+        "rebirths": 25
+      },
+      {
+        "step": 10,
+        "rebirths": 12
+      },
+      {
+        "step": 11,
+        "rebirths": 6
+      },
+      {
+        "step": 12,
+        "rebirths": 3
+      },
+      {
+        "step": 13,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 35000,
+    "rebirths": 13980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 13980
+      },
+      {
+        "step": 1,
+        "rebirths": 6990
+      },
+      {
+        "step": 2,
+        "rebirths": 3495
+      },
+      {
+        "step": 3,
+        "rebirths": 1747
+      },
+      {
+        "step": 4,
+        "rebirths": 873
+      },
+      {
+        "step": 5,
+        "rebirths": 436
+      },
+      {
+        "step": 6,
+        "rebirths": 218
+      },
+      {
+        "step": 7,
+        "rebirths": 109
+      },
+      {
+        "step": 8,
+        "rebirths": 54
+      },
+      {
+        "step": 9,
+        "rebirths": 27
+      },
+      {
+        "step": 10,
+        "rebirths": 13
+      },
+      {
+        "step": 11,
+        "rebirths": 6
+      },
+      {
+        "step": 12,
+        "rebirths": 3
+      },
+      {
+        "step": 13,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 37500,
+    "rebirths": 14980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 14980
+      },
+      {
+        "step": 1,
+        "rebirths": 7490
+      },
+      {
+        "step": 2,
+        "rebirths": 3745
+      },
+      {
+        "step": 3,
+        "rebirths": 1872
+      },
+      {
+        "step": 4,
+        "rebirths": 936
+      },
+      {
+        "step": 5,
+        "rebirths": 468
+      },
+      {
+        "step": 6,
+        "rebirths": 234
+      },
+      {
+        "step": 7,
+        "rebirths": 117
+      },
+      {
+        "step": 8,
+        "rebirths": 58
+      },
+      {
+        "step": 9,
+        "rebirths": 29
+      },
+      {
+        "step": 10,
+        "rebirths": 14
+      },
+      {
+        "step": 11,
+        "rebirths": 7
+      },
+      {
+        "step": 12,
+        "rebirths": 3
+      },
+      {
+        "step": 13,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 3000,
+    "rebirths": 14980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 14980
+      },
+      {
+        "step": 1,
+        "rebirths": 7490
+      },
+      {
+        "step": 2,
+        "rebirths": 3745
+      },
+      {
+        "step": 3,
+        "rebirths": 1872
+      },
+      {
+        "step": 4,
+        "rebirths": 936
+      },
+      {
+        "step": 5,
+        "rebirths": 468
+      },
+      {
+        "step": 6,
+        "rebirths": 234
+      },
+      {
+        "step": 7,
+        "rebirths": 117
+      },
+      {
+        "step": 8,
+        "rebirths": 58
+      },
+      {
+        "step": 9,
+        "rebirths": 29
+      },
+      {
+        "step": 10,
+        "rebirths": 14
+      },
+      {
+        "step": 11,
+        "rebirths": 7
+      },
+      {
+        "step": 12,
+        "rebirths": 3
+      },
+      {
+        "step": 13,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 40000,
+    "rebirths": 15980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 15980
+      },
+      {
+        "step": 1,
+        "rebirths": 7990
+      },
+      {
+        "step": 2,
+        "rebirths": 3995
+      },
+      {
+        "step": 3,
+        "rebirths": 1997
+      },
+      {
+        "step": 4,
+        "rebirths": 998
+      },
+      {
+        "step": 5,
+        "rebirths": 499
+      },
+      {
+        "step": 6,
+        "rebirths": 249
+      },
+      {
+        "step": 7,
+        "rebirths": 124
+      },
+      {
+        "step": 8,
+        "rebirths": 62
+      },
+      {
+        "step": 9,
+        "rebirths": 31
+      },
+      {
+        "step": 10,
+        "rebirths": 15
+      },
+      {
+        "step": 11,
+        "rebirths": 7
+      },
+      {
+        "step": 12,
+        "rebirths": 3
+      },
+      {
+        "step": 13,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Mythical",
+    "rock": "Mystic",
+    "xp": 12500,
+    "rebirths": 16646,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 16646
+      },
+      {
+        "step": 1,
+        "rebirths": 8323
+      },
+      {
+        "step": 2,
+        "rebirths": 4161
+      },
+      {
+        "step": 3,
+        "rebirths": 2080
+      },
+      {
+        "step": 4,
+        "rebirths": 1040
+      },
+      {
+        "step": 5,
+        "rebirths": 520
+      },
+      {
+        "step": 6,
+        "rebirths": 260
+      },
+      {
+        "step": 7,
+        "rebirths": 130
+      },
+      {
+        "step": 8,
+        "rebirths": 65
+      },
+      {
+        "step": 9,
+        "rebirths": 32
+      },
+      {
+        "step": 10,
+        "rebirths": 16
+      },
+      {
+        "step": 11,
+        "rebirths": 8
+      },
+      {
+        "step": 12,
+        "rebirths": 4
+      },
+      {
+        "step": 13,
+        "rebirths": 2
+      },
+      {
+        "step": 14,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Legends",
+    "rock": "Legendary",
+    "xp": 42500,
+    "rebirths": 16980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 16980
+      },
+      {
+        "step": 1,
+        "rebirths": 8490
+      },
+      {
+        "step": 2,
+        "rebirths": 4245
+      },
+      {
+        "step": 3,
+        "rebirths": 2122
+      },
+      {
+        "step": 4,
+        "rebirths": 1061
+      },
+      {
+        "step": 5,
+        "rebirths": 530
+      },
+      {
+        "step": 6,
+        "rebirths": 265
+      },
+      {
+        "step": 7,
+        "rebirths": 132
+      },
+      {
+        "step": 8,
+        "rebirths": 66
+      },
+      {
+        "step": 9,
+        "rebirths": 33
+      },
+      {
+        "step": 10,
+        "rebirths": 16
+      },
+      {
+        "step": 11,
+        "rebirths": 8
+      },
+      {
+        "step": 12,
+        "rebirths": 4
+      },
+      {
+        "step": 13,
+        "rebirths": 2
+      },
+      {
+        "step": 14,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 500,
+    "rebirths": 19980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 19980
+      },
+      {
+        "step": 1,
+        "rebirths": 9990
+      },
+      {
+        "step": 2,
+        "rebirths": 4995
+      },
+      {
+        "step": 3,
+        "rebirths": 2497
+      },
+      {
+        "step": 4,
+        "rebirths": 1248
+      },
+      {
+        "step": 5,
+        "rebirths": 624
+      },
+      {
+        "step": 6,
+        "rebirths": 312
+      },
+      {
+        "step": 7,
+        "rebirths": 156
+      },
+      {
+        "step": 8,
+        "rebirths": 78
+      },
+      {
+        "step": 9,
+        "rebirths": 39
+      },
+      {
+        "step": 10,
+        "rebirths": 19
+      },
+      {
+        "step": 11,
+        "rebirths": 9
+      },
+      {
+        "step": 12,
+        "rebirths": 4
+      },
+      {
+        "step": 13,
+        "rebirths": 2
+      },
+      {
+        "step": 14,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 500,
+    "rebirths": 19980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 19980
+      },
+      {
+        "step": 1,
+        "rebirths": 9990
+      },
+      {
+        "step": 2,
+        "rebirths": 4995
+      },
+      {
+        "step": 3,
+        "rebirths": 2497
+      },
+      {
+        "step": 4,
+        "rebirths": 1248
+      },
+      {
+        "step": 5,
+        "rebirths": 624
+      },
+      {
+        "step": 6,
+        "rebirths": 312
+      },
+      {
+        "step": 7,
+        "rebirths": 156
+      },
+      {
+        "step": 8,
+        "rebirths": 78
+      },
+      {
+        "step": 9,
+        "rebirths": 39
+      },
+      {
+        "step": 10,
+        "rebirths": 19
+      },
+      {
+        "step": 11,
+        "rebirths": 9
+      },
+      {
+        "step": 12,
+        "rebirths": 4
+      },
+      {
+        "step": 13,
+        "rebirths": 2
+      },
+      {
+        "step": 14,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Frost",
+    "rock": "Frozen",
+    "xp": 7500,
+    "rebirths": 19980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 19980
+      },
+      {
+        "step": 1,
+        "rebirths": 9990
+      },
+      {
+        "step": 2,
+        "rebirths": 4995
+      },
+      {
+        "step": 3,
+        "rebirths": 2497
+      },
+      {
+        "step": 4,
+        "rebirths": 1248
+      },
+      {
+        "step": 5,
+        "rebirths": 624
+      },
+      {
+        "step": 6,
+        "rebirths": 312
+      },
+      {
+        "step": 7,
+        "rebirths": 156
+      },
+      {
+        "step": 8,
+        "rebirths": 78
+      },
+      {
+        "step": 9,
+        "rebirths": 39
+      },
+      {
+        "step": 10,
+        "rebirths": 19
+      },
+      {
+        "step": 11,
+        "rebirths": 9
+      },
+      {
+        "step": 12,
+        "rebirths": 4
+      },
+      {
+        "step": 13,
+        "rebirths": 2
+      },
+      {
+        "step": 14,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Eternal",
+    "rock": "Inferno",
+    "xp": 22500,
+    "rebirths": 19980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 19980
+      },
+      {
+        "step": 1,
+        "rebirths": 9990
+      },
+      {
+        "step": 2,
+        "rebirths": 4995
+      },
+      {
+        "step": 3,
+        "rebirths": 2497
+      },
+      {
+        "step": 4,
+        "rebirths": 1248
+      },
+      {
+        "step": 5,
+        "rebirths": 624
+      },
+      {
+        "step": 6,
+        "rebirths": 312
+      },
+      {
+        "step": 7,
+        "rebirths": 156
+      },
+      {
+        "step": 8,
+        "rebirths": 78
+      },
+      {
+        "step": 9,
+        "rebirths": 39
+      },
+      {
+        "step": 10,
+        "rebirths": 19
+      },
+      {
+        "step": 11,
+        "rebirths": 9
+      },
+      {
+        "step": 12,
+        "rebirths": 4
+      },
+      {
+        "step": 13,
+        "rebirths": 2
+      },
+      {
+        "step": 14,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Mythical",
+    "rock": "Mystic",
+    "xp": 15000,
+    "rebirths": 19980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 19980
+      },
+      {
+        "step": 1,
+        "rebirths": 9990
+      },
+      {
+        "step": 2,
+        "rebirths": 4995
+      },
+      {
+        "step": 3,
+        "rebirths": 2497
+      },
+      {
+        "step": 4,
+        "rebirths": 1248
+      },
+      {
+        "step": 5,
+        "rebirths": 624
+      },
+      {
+        "step": 6,
+        "rebirths": 312
+      },
+      {
+        "step": 7,
+        "rebirths": 156
+      },
+      {
+        "step": 8,
+        "rebirths": 78
+      },
+      {
+        "step": 9,
+        "rebirths": 39
+      },
+      {
+        "step": 10,
+        "rebirths": 19
+      },
+      {
+        "step": 11,
+        "rebirths": 9
+      },
+      {
+        "step": 12,
+        "rebirths": 4
+      },
+      {
+        "step": 13,
+        "rebirths": 2
+      },
+      {
+        "step": 14,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Eternal",
+    "rock": "Inferno",
+    "xp": 25000,
+    "rebirths": 22202,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 22202
+      },
+      {
+        "step": 1,
+        "rebirths": 11101
+      },
+      {
+        "step": 2,
+        "rebirths": 5550
+      },
+      {
+        "step": 3,
+        "rebirths": 2775
+      },
+      {
+        "step": 4,
+        "rebirths": 1387
+      },
+      {
+        "step": 5,
+        "rebirths": 693
+      },
+      {
+        "step": 6,
+        "rebirths": 346
+      },
+      {
+        "step": 7,
+        "rebirths": 173
+      },
+      {
+        "step": 8,
+        "rebirths": 86
+      },
+      {
+        "step": 9,
+        "rebirths": 43
+      },
+      {
+        "step": 10,
+        "rebirths": 21
+      },
+      {
+        "step": 11,
+        "rebirths": 10
+      },
+      {
+        "step": 12,
+        "rebirths": 5
+      },
+      {
+        "step": 13,
+        "rebirths": 2
+      },
+      {
+        "step": 14,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Eternal",
+    "rock": "Inferno",
+    "xp": 27500,
+    "rebirths": 24424,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 24424
+      },
+      {
+        "step": 1,
+        "rebirths": 12212
+      },
+      {
+        "step": 2,
+        "rebirths": 6106
+      },
+      {
+        "step": 3,
+        "rebirths": 3053
+      },
+      {
+        "step": 4,
+        "rebirths": 1526
+      },
+      {
+        "step": 5,
+        "rebirths": 763
+      },
+      {
+        "step": 6,
+        "rebirths": 381
+      },
+      {
+        "step": 7,
+        "rebirths": 190
+      },
+      {
+        "step": 8,
+        "rebirths": 95
+      },
+      {
+        "step": 9,
+        "rebirths": 47
+      },
+      {
+        "step": 10,
+        "rebirths": 23
+      },
+      {
+        "step": 11,
+        "rebirths": 11
+      },
+      {
+        "step": 12,
+        "rebirths": 5
+      },
+      {
+        "step": 13,
+        "rebirths": 2
+      },
+      {
+        "step": 14,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 5000,
+    "rebirths": 24980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 24980
+      },
+      {
+        "step": 1,
+        "rebirths": 12490
+      },
+      {
+        "step": 2,
+        "rebirths": 6245
+      },
+      {
+        "step": 3,
+        "rebirths": 3122
+      },
+      {
+        "step": 4,
+        "rebirths": 1561
+      },
+      {
+        "step": 5,
+        "rebirths": 780
+      },
+      {
+        "step": 6,
+        "rebirths": 390
+      },
+      {
+        "step": 7,
+        "rebirths": 195
+      },
+      {
+        "step": 8,
+        "rebirths": 97
+      },
+      {
+        "step": 9,
+        "rebirths": 48
+      },
+      {
+        "step": 10,
+        "rebirths": 24
+      },
+      {
+        "step": 11,
+        "rebirths": 12
+      },
+      {
+        "step": 12,
+        "rebirths": 6
+      },
+      {
+        "step": 13,
+        "rebirths": 3
+      },
+      {
+        "step": 14,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Frost",
+    "rock": "Frozen",
+    "xp": 10000,
+    "rebirths": 26646,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 26646
+      },
+      {
+        "step": 1,
+        "rebirths": 13323
+      },
+      {
+        "step": 2,
+        "rebirths": 6661
+      },
+      {
+        "step": 3,
+        "rebirths": 3330
+      },
+      {
+        "step": 4,
+        "rebirths": 1665
+      },
+      {
+        "step": 5,
+        "rebirths": 832
+      },
+      {
+        "step": 6,
+        "rebirths": 416
+      },
+      {
+        "step": 7,
+        "rebirths": 208
+      },
+      {
+        "step": 8,
+        "rebirths": 104
+      },
+      {
+        "step": 9,
+        "rebirths": 52
+      },
+      {
+        "step": 10,
+        "rebirths": 26
+      },
+      {
+        "step": 11,
+        "rebirths": 13
+      },
+      {
+        "step": 12,
+        "rebirths": 6
+      },
+      {
+        "step": 13,
+        "rebirths": 3
+      },
+      {
+        "step": 14,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Mythical",
+    "rock": "Mystic",
+    "xp": 20000,
+    "rebirths": 26646,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 26646
+      },
+      {
+        "step": 1,
+        "rebirths": 13323
+      },
+      {
+        "step": 2,
+        "rebirths": 6661
+      },
+      {
+        "step": 3,
+        "rebirths": 3330
+      },
+      {
+        "step": 4,
+        "rebirths": 1665
+      },
+      {
+        "step": 5,
+        "rebirths": 832
+      },
+      {
+        "step": 6,
+        "rebirths": 416
+      },
+      {
+        "step": 7,
+        "rebirths": 208
+      },
+      {
+        "step": 8,
+        "rebirths": 104
+      },
+      {
+        "step": 9,
+        "rebirths": 52
+      },
+      {
+        "step": 10,
+        "rebirths": 26
+      },
+      {
+        "step": 11,
+        "rebirths": 13
+      },
+      {
+        "step": 12,
+        "rebirths": 6
+      },
+      {
+        "step": 13,
+        "rebirths": 3
+      },
+      {
+        "step": 14,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Eternal",
+    "rock": "Inferno",
+    "xp": 30000,
+    "rebirths": 26646,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 26646
+      },
+      {
+        "step": 1,
+        "rebirths": 13323
+      },
+      {
+        "step": 2,
+        "rebirths": 6661
+      },
+      {
+        "step": 3,
+        "rebirths": 3330
+      },
+      {
+        "step": 4,
+        "rebirths": 1665
+      },
+      {
+        "step": 5,
+        "rebirths": 832
+      },
+      {
+        "step": 6,
+        "rebirths": 416
+      },
+      {
+        "step": 7,
+        "rebirths": 208
+      },
+      {
+        "step": 8,
+        "rebirths": 104
+      },
+      {
+        "step": 9,
+        "rebirths": 52
+      },
+      {
+        "step": 10,
+        "rebirths": 26
+      },
+      {
+        "step": 11,
+        "rebirths": 13
+      },
+      {
+        "step": 12,
+        "rebirths": 6
+      },
+      {
+        "step": 13,
+        "rebirths": 3
+      },
+      {
+        "step": 14,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Eternal",
+    "rock": "Inferno",
+    "xp": 32500,
+    "rebirths": 28868,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 28868
+      },
+      {
+        "step": 1,
+        "rebirths": 14434
+      },
+      {
+        "step": 2,
+        "rebirths": 7217
+      },
+      {
+        "step": 3,
+        "rebirths": 3608
+      },
+      {
+        "step": 4,
+        "rebirths": 1804
+      },
+      {
+        "step": 5,
+        "rebirths": 902
+      },
+      {
+        "step": 6,
+        "rebirths": 451
+      },
+      {
+        "step": 7,
+        "rebirths": 225
+      },
+      {
+        "step": 8,
+        "rebirths": 112
+      },
+      {
+        "step": 9,
+        "rebirths": 56
+      },
+      {
+        "step": 10,
+        "rebirths": 28
+      },
+      {
+        "step": 11,
+        "rebirths": 14
+      },
+      {
+        "step": 12,
+        "rebirths": 7
+      },
+      {
+        "step": 13,
+        "rebirths": 3
+      },
+      {
+        "step": 14,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Mythical",
+    "rock": "Mystic",
+    "xp": 22500,
+    "rebirths": 29980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 29980
+      },
+      {
+        "step": 1,
+        "rebirths": 14990
+      },
+      {
+        "step": 2,
+        "rebirths": 7495
+      },
+      {
+        "step": 3,
+        "rebirths": 3747
+      },
+      {
+        "step": 4,
+        "rebirths": 1873
+      },
+      {
+        "step": 5,
+        "rebirths": 936
+      },
+      {
+        "step": 6,
+        "rebirths": 468
+      },
+      {
+        "step": 7,
+        "rebirths": 234
+      },
+      {
+        "step": 8,
+        "rebirths": 117
+      },
+      {
+        "step": 9,
+        "rebirths": 58
+      },
+      {
+        "step": 10,
+        "rebirths": 29
+      },
+      {
+        "step": 11,
+        "rebirths": 14
+      },
+      {
+        "step": 12,
+        "rebirths": 7
+      },
+      {
+        "step": 13,
+        "rebirths": 3
+      },
+      {
+        "step": 14,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 1500,
+    "rebirths": 29980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 29980
+      },
+      {
+        "step": 1,
+        "rebirths": 14990
+      },
+      {
+        "step": 2,
+        "rebirths": 7495
+      },
+      {
+        "step": 3,
+        "rebirths": 3747
+      },
+      {
+        "step": 4,
+        "rebirths": 1873
+      },
+      {
+        "step": 5,
+        "rebirths": 936
+      },
+      {
+        "step": 6,
+        "rebirths": 468
+      },
+      {
+        "step": 7,
+        "rebirths": 234
+      },
+      {
+        "step": 8,
+        "rebirths": 117
+      },
+      {
+        "step": 9,
+        "rebirths": 58
+      },
+      {
+        "step": 10,
+        "rebirths": 29
+      },
+      {
+        "step": 11,
+        "rebirths": 14
+      },
+      {
+        "step": 12,
+        "rebirths": 7
+      },
+      {
+        "step": 13,
+        "rebirths": 3
+      },
+      {
+        "step": 14,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Mythical",
+    "rock": "Mystic",
+    "xp": 27500,
+    "rebirths": 36646,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 36646
+      },
+      {
+        "step": 1,
+        "rebirths": 18323
+      },
+      {
+        "step": 2,
+        "rebirths": 9161
+      },
+      {
+        "step": 3,
+        "rebirths": 4580
+      },
+      {
+        "step": 4,
+        "rebirths": 2290
+      },
+      {
+        "step": 5,
+        "rebirths": 1145
+      },
+      {
+        "step": 6,
+        "rebirths": 572
+      },
+      {
+        "step": 7,
+        "rebirths": 286
+      },
+      {
+        "step": 8,
+        "rebirths": 143
+      },
+      {
+        "step": 9,
+        "rebirths": 71
+      },
+      {
+        "step": 10,
+        "rebirths": 35
+      },
+      {
+        "step": 11,
+        "rebirths": 17
+      },
+      {
+        "step": 12,
+        "rebirths": 8
+      },
+      {
+        "step": 13,
+        "rebirths": 4
+      },
+      {
+        "step": 14,
+        "rebirths": 2
+      },
+      {
+        "step": 15,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 7500,
+    "rebirths": 37480,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 37480
+      },
+      {
+        "step": 1,
+        "rebirths": 18740
+      },
+      {
+        "step": 2,
+        "rebirths": 9370
+      },
+      {
+        "step": 3,
+        "rebirths": 4685
+      },
+      {
+        "step": 4,
+        "rebirths": 2342
+      },
+      {
+        "step": 5,
+        "rebirths": 1171
+      },
+      {
+        "step": 6,
+        "rebirths": 585
+      },
+      {
+        "step": 7,
+        "rebirths": 292
+      },
+      {
+        "step": 8,
+        "rebirths": 146
+      },
+      {
+        "step": 9,
+        "rebirths": 73
+      },
+      {
+        "step": 10,
+        "rebirths": 36
+      },
+      {
+        "step": 11,
+        "rebirths": 18
+      },
+      {
+        "step": 12,
+        "rebirths": 9
+      },
+      {
+        "step": 13,
+        "rebirths": 4
+      },
+      {
+        "step": 14,
+        "rebirths": 2
+      },
+      {
+        "step": 15,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Mythical",
+    "rock": "Mystic",
+    "xp": 30000,
+    "rebirths": 39980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 39980
+      },
+      {
+        "step": 1,
+        "rebirths": 19990
+      },
+      {
+        "step": 2,
+        "rebirths": 9995
+      },
+      {
+        "step": 3,
+        "rebirths": 4997
+      },
+      {
+        "step": 4,
+        "rebirths": 2498
+      },
+      {
+        "step": 5,
+        "rebirths": 1249
+      },
+      {
+        "step": 6,
+        "rebirths": 624
+      },
+      {
+        "step": 7,
+        "rebirths": 312
+      },
+      {
+        "step": 8,
+        "rebirths": 156
+      },
+      {
+        "step": 9,
+        "rebirths": 78
+      },
+      {
+        "step": 10,
+        "rebirths": 39
+      },
+      {
+        "step": 11,
+        "rebirths": 19
+      },
+      {
+        "step": 12,
+        "rebirths": 9
+      },
+      {
+        "step": 13,
+        "rebirths": 4
+      },
+      {
+        "step": 14,
+        "rebirths": 2
+      },
+      {
+        "step": 15,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Frost",
+    "rock": "Frozen",
+    "xp": 15000,
+    "rebirths": 39980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 39980
+      },
+      {
+        "step": 1,
+        "rebirths": 19990
+      },
+      {
+        "step": 2,
+        "rebirths": 9995
+      },
+      {
+        "step": 3,
+        "rebirths": 4997
+      },
+      {
+        "step": 4,
+        "rebirths": 2498
+      },
+      {
+        "step": 5,
+        "rebirths": 1249
+      },
+      {
+        "step": 6,
+        "rebirths": 624
+      },
+      {
+        "step": 7,
+        "rebirths": 312
+      },
+      {
+        "step": 8,
+        "rebirths": 156
+      },
+      {
+        "step": 9,
+        "rebirths": 78
+      },
+      {
+        "step": 10,
+        "rebirths": 39
+      },
+      {
+        "step": 11,
+        "rebirths": 19
+      },
+      {
+        "step": 12,
+        "rebirths": 9
+      },
+      {
+        "step": 13,
+        "rebirths": 4
+      },
+      {
+        "step": 14,
+        "rebirths": 2
+      },
+      {
+        "step": 15,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Frost",
+    "rock": "Frozen",
+    "xp": 17500,
+    "rebirths": 46646,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 46646
+      },
+      {
+        "step": 1,
+        "rebirths": 23323
+      },
+      {
+        "step": 2,
+        "rebirths": 11661
+      },
+      {
+        "step": 3,
+        "rebirths": 5830
+      },
+      {
+        "step": 4,
+        "rebirths": 2915
+      },
+      {
+        "step": 5,
+        "rebirths": 1457
+      },
+      {
+        "step": 6,
+        "rebirths": 728
+      },
+      {
+        "step": 7,
+        "rebirths": 364
+      },
+      {
+        "step": 8,
+        "rebirths": 182
+      },
+      {
+        "step": 9,
+        "rebirths": 91
+      },
+      {
+        "step": 10,
+        "rebirths": 45
+      },
+      {
+        "step": 11,
+        "rebirths": 22
+      },
+      {
+        "step": 12,
+        "rebirths": 11
+      },
+      {
+        "step": 13,
+        "rebirths": 5
+      },
+      {
+        "step": 14,
+        "rebirths": 2
+      },
+      {
+        "step": 15,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Mythical",
+    "rock": "Mystic",
+    "xp": 35000,
+    "rebirths": 46646,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 46646
+      },
+      {
+        "step": 1,
+        "rebirths": 23323
+      },
+      {
+        "step": 2,
+        "rebirths": 11661
+      },
+      {
+        "step": 3,
+        "rebirths": 5830
+      },
+      {
+        "step": 4,
+        "rebirths": 2915
+      },
+      {
+        "step": 5,
+        "rebirths": 1457
+      },
+      {
+        "step": 6,
+        "rebirths": 728
+      },
+      {
+        "step": 7,
+        "rebirths": 364
+      },
+      {
+        "step": 8,
+        "rebirths": 182
+      },
+      {
+        "step": 9,
+        "rebirths": 91
+      },
+      {
+        "step": 10,
+        "rebirths": 45
+      },
+      {
+        "step": 11,
+        "rebirths": 22
+      },
+      {
+        "step": 12,
+        "rebirths": 11
+      },
+      {
+        "step": 13,
+        "rebirths": 5
+      },
+      {
+        "step": 14,
+        "rebirths": 2
+      },
+      {
+        "step": 15,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 10000,
+    "rebirths": 49980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 49980
+      },
+      {
+        "step": 1,
+        "rebirths": 24990
+      },
+      {
+        "step": 2,
+        "rebirths": 12495
+      },
+      {
+        "step": 3,
+        "rebirths": 6247
+      },
+      {
+        "step": 4,
+        "rebirths": 3123
+      },
+      {
+        "step": 5,
+        "rebirths": 1561
+      },
+      {
+        "step": 6,
+        "rebirths": 780
+      },
+      {
+        "step": 7,
+        "rebirths": 390
+      },
+      {
+        "step": 8,
+        "rebirths": 195
+      },
+      {
+        "step": 9,
+        "rebirths": 97
+      },
+      {
+        "step": 10,
+        "rebirths": 48
+      },
+      {
+        "step": 11,
+        "rebirths": 24
+      },
+      {
+        "step": 12,
+        "rebirths": 12
+      },
+      {
+        "step": 13,
+        "rebirths": 6
+      },
+      {
+        "step": 14,
+        "rebirths": 3
+      },
+      {
+        "step": 15,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Mythical",
+    "rock": "Mystic",
+    "xp": 37500,
+    "rebirths": 49980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 49980
+      },
+      {
+        "step": 1,
+        "rebirths": 24990
+      },
+      {
+        "step": 2,
+        "rebirths": 12495
+      },
+      {
+        "step": 3,
+        "rebirths": 6247
+      },
+      {
+        "step": 4,
+        "rebirths": 3123
+      },
+      {
+        "step": 5,
+        "rebirths": 1561
+      },
+      {
+        "step": 6,
+        "rebirths": 780
+      },
+      {
+        "step": 7,
+        "rebirths": 390
+      },
+      {
+        "step": 8,
+        "rebirths": 195
+      },
+      {
+        "step": 9,
+        "rebirths": 97
+      },
+      {
+        "step": 10,
+        "rebirths": 48
+      },
+      {
+        "step": 11,
+        "rebirths": 24
+      },
+      {
+        "step": 12,
+        "rebirths": 12
+      },
+      {
+        "step": 13,
+        "rebirths": 6
+      },
+      {
+        "step": 14,
+        "rebirths": 3
+      },
+      {
+        "step": 15,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Mythical",
+    "rock": "Mystic",
+    "xp": 42500,
+    "rebirths": 56646,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 56646
+      },
+      {
+        "step": 1,
+        "rebirths": 28323
+      },
+      {
+        "step": 2,
+        "rebirths": 14161
+      },
+      {
+        "step": 3,
+        "rebirths": 7080
+      },
+      {
+        "step": 4,
+        "rebirths": 3540
+      },
+      {
+        "step": 5,
+        "rebirths": 1770
+      },
+      {
+        "step": 6,
+        "rebirths": 885
+      },
+      {
+        "step": 7,
+        "rebirths": 442
+      },
+      {
+        "step": 8,
+        "rebirths": 221
+      },
+      {
+        "step": 9,
+        "rebirths": 110
+      },
+      {
+        "step": 10,
+        "rebirths": 55
+      },
+      {
+        "step": 11,
+        "rebirths": 27
+      },
+      {
+        "step": 12,
+        "rebirths": 13
+      },
+      {
+        "step": 13,
+        "rebirths": 6
+      },
+      {
+        "step": 14,
+        "rebirths": 3
+      },
+      {
+        "step": 15,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 1500,
+    "rebirths": 59980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 59980
+      },
+      {
+        "step": 1,
+        "rebirths": 29990
+      },
+      {
+        "step": 2,
+        "rebirths": 14995
+      },
+      {
+        "step": 3,
+        "rebirths": 7497
+      },
+      {
+        "step": 4,
+        "rebirths": 3748
+      },
+      {
+        "step": 5,
+        "rebirths": 1874
+      },
+      {
+        "step": 6,
+        "rebirths": 937
+      },
+      {
+        "step": 7,
+        "rebirths": 468
+      },
+      {
+        "step": 8,
+        "rebirths": 234
+      },
+      {
+        "step": 9,
+        "rebirths": 117
+      },
+      {
+        "step": 10,
+        "rebirths": 58
+      },
+      {
+        "step": 11,
+        "rebirths": 29
+      },
+      {
+        "step": 12,
+        "rebirths": 14
+      },
+      {
+        "step": 13,
+        "rebirths": 7
+      },
+      {
+        "step": 14,
+        "rebirths": 3
+      },
+      {
+        "step": 15,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 3000,
+    "rebirths": 59980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 59980
+      },
+      {
+        "step": 1,
+        "rebirths": 29990
+      },
+      {
+        "step": 2,
+        "rebirths": 14995
+      },
+      {
+        "step": 3,
+        "rebirths": 7497
+      },
+      {
+        "step": 4,
+        "rebirths": 3748
+      },
+      {
+        "step": 5,
+        "rebirths": 1874
+      },
+      {
+        "step": 6,
+        "rebirths": 937
+      },
+      {
+        "step": 7,
+        "rebirths": 468
+      },
+      {
+        "step": 8,
+        "rebirths": 234
+      },
+      {
+        "step": 9,
+        "rebirths": 117
+      },
+      {
+        "step": 10,
+        "rebirths": 58
+      },
+      {
+        "step": 11,
+        "rebirths": 29
+      },
+      {
+        "step": 12,
+        "rebirths": 14
+      },
+      {
+        "step": 13,
+        "rebirths": 7
+      },
+      {
+        "step": 14,
+        "rebirths": 3
+      },
+      {
+        "step": 15,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Frost",
+    "rock": "Frozen",
+    "xp": 22500,
+    "rebirths": 59980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 59980
+      },
+      {
+        "step": 1,
+        "rebirths": 29990
+      },
+      {
+        "step": 2,
+        "rebirths": 14995
+      },
+      {
+        "step": 3,
+        "rebirths": 7497
+      },
+      {
+        "step": 4,
+        "rebirths": 3748
+      },
+      {
+        "step": 5,
+        "rebirths": 1874
+      },
+      {
+        "step": 6,
+        "rebirths": 937
+      },
+      {
+        "step": 7,
+        "rebirths": 468
+      },
+      {
+        "step": 8,
+        "rebirths": 234
+      },
+      {
+        "step": 9,
+        "rebirths": 117
+      },
+      {
+        "step": 10,
+        "rebirths": 58
+      },
+      {
+        "step": 11,
+        "rebirths": 29
+      },
+      {
+        "step": 12,
+        "rebirths": 14
+      },
+      {
+        "step": 13,
+        "rebirths": 7
+      },
+      {
+        "step": 14,
+        "rebirths": 3
+      },
+      {
+        "step": 15,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 1500,
+    "rebirths": 59980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 59980
+      },
+      {
+        "step": 1,
+        "rebirths": 29990
+      },
+      {
+        "step": 2,
+        "rebirths": 14995
+      },
+      {
+        "step": 3,
+        "rebirths": 7497
+      },
+      {
+        "step": 4,
+        "rebirths": 3748
+      },
+      {
+        "step": 5,
+        "rebirths": 1874
+      },
+      {
+        "step": 6,
+        "rebirths": 937
+      },
+      {
+        "step": 7,
+        "rebirths": 468
+      },
+      {
+        "step": 8,
+        "rebirths": 234
+      },
+      {
+        "step": 9,
+        "rebirths": 117
+      },
+      {
+        "step": 10,
+        "rebirths": 58
+      },
+      {
+        "step": 11,
+        "rebirths": 29
+      },
+      {
+        "step": 12,
+        "rebirths": 14
+      },
+      {
+        "step": 13,
+        "rebirths": 7
+      },
+      {
+        "step": 14,
+        "rebirths": 3
+      },
+      {
+        "step": 15,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 12500,
+    "rebirths": 62480,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 62480
+      },
+      {
+        "step": 1,
+        "rebirths": 31240
+      },
+      {
+        "step": 2,
+        "rebirths": 15620
+      },
+      {
+        "step": 3,
+        "rebirths": 7810
+      },
+      {
+        "step": 4,
+        "rebirths": 3905
+      },
+      {
+        "step": 5,
+        "rebirths": 1952
+      },
+      {
+        "step": 6,
+        "rebirths": 976
+      },
+      {
+        "step": 7,
+        "rebirths": 488
+      },
+      {
+        "step": 8,
+        "rebirths": 244
+      },
+      {
+        "step": 9,
+        "rebirths": 122
+      },
+      {
+        "step": 10,
+        "rebirths": 61
+      },
+      {
+        "step": 11,
+        "rebirths": 30
+      },
+      {
+        "step": 12,
+        "rebirths": 15
+      },
+      {
+        "step": 13,
+        "rebirths": 7
+      },
+      {
+        "step": 14,
+        "rebirths": 3
+      },
+      {
+        "step": 15,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Frost",
+    "rock": "Frozen",
+    "xp": 25000,
+    "rebirths": 66646,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 66646
+      },
+      {
+        "step": 1,
+        "rebirths": 33323
+      },
+      {
+        "step": 2,
+        "rebirths": 16661
+      },
+      {
+        "step": 3,
+        "rebirths": 8330
+      },
+      {
+        "step": 4,
+        "rebirths": 4165
+      },
+      {
+        "step": 5,
+        "rebirths": 2082
+      },
+      {
+        "step": 6,
+        "rebirths": 1041
+      },
+      {
+        "step": 7,
+        "rebirths": 520
+      },
+      {
+        "step": 8,
+        "rebirths": 260
+      },
+      {
+        "step": 9,
+        "rebirths": 130
+      },
+      {
+        "step": 10,
+        "rebirths": 65
+      },
+      {
+        "step": 11,
+        "rebirths": 32
+      },
+      {
+        "step": 12,
+        "rebirths": 16
+      },
+      {
+        "step": 13,
+        "rebirths": 8
+      },
+      {
+        "step": 14,
+        "rebirths": 4
+      },
+      {
+        "step": 15,
+        "rebirths": 2
+      },
+      {
+        "step": 16,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 15000,
+    "rebirths": 74980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 74980
+      },
+      {
+        "step": 1,
+        "rebirths": 37490
+      },
+      {
+        "step": 2,
+        "rebirths": 18745
+      },
+      {
+        "step": 3,
+        "rebirths": 9372
+      },
+      {
+        "step": 4,
+        "rebirths": 4686
+      },
+      {
+        "step": 5,
+        "rebirths": 2343
+      },
+      {
+        "step": 6,
+        "rebirths": 1171
+      },
+      {
+        "step": 7,
+        "rebirths": 585
+      },
+      {
+        "step": 8,
+        "rebirths": 292
+      },
+      {
+        "step": 9,
+        "rebirths": 146
+      },
+      {
+        "step": 10,
+        "rebirths": 73
+      },
+      {
+        "step": 11,
+        "rebirths": 36
+      },
+      {
+        "step": 12,
+        "rebirths": 18
+      },
+      {
+        "step": 13,
+        "rebirths": 9
+      },
+      {
+        "step": 14,
+        "rebirths": 4
+      },
+      {
+        "step": 15,
+        "rebirths": 2
+      },
+      {
+        "step": 16,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Frost",
+    "rock": "Frozen",
+    "xp": 30000,
+    "rebirths": 79980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 79980
+      },
+      {
+        "step": 1,
+        "rebirths": 39990
+      },
+      {
+        "step": 2,
+        "rebirths": 19995
+      },
+      {
+        "step": 3,
+        "rebirths": 9997
+      },
+      {
+        "step": 4,
+        "rebirths": 4998
+      },
+      {
+        "step": 5,
+        "rebirths": 2499
+      },
+      {
+        "step": 6,
+        "rebirths": 1249
+      },
+      {
+        "step": 7,
+        "rebirths": 624
+      },
+      {
+        "step": 8,
+        "rebirths": 312
+      },
+      {
+        "step": 9,
+        "rebirths": 156
+      },
+      {
+        "step": 10,
+        "rebirths": 78
+      },
+      {
+        "step": 11,
+        "rebirths": 39
+      },
+      {
+        "step": 12,
+        "rebirths": 19
+      },
+      {
+        "step": 13,
+        "rebirths": 9
+      },
+      {
+        "step": 14,
+        "rebirths": 4
+      },
+      {
+        "step": 15,
+        "rebirths": 2
+      },
+      {
+        "step": 16,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Frost",
+    "rock": "Frozen",
+    "xp": 32500,
+    "rebirths": 86646,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 86646
+      },
+      {
+        "step": 1,
+        "rebirths": 43323
+      },
+      {
+        "step": 2,
+        "rebirths": 21661
+      },
+      {
+        "step": 3,
+        "rebirths": 10830
+      },
+      {
+        "step": 4,
+        "rebirths": 5415
+      },
+      {
+        "step": 5,
+        "rebirths": 2707
+      },
+      {
+        "step": 6,
+        "rebirths": 1353
+      },
+      {
+        "step": 7,
+        "rebirths": 676
+      },
+      {
+        "step": 8,
+        "rebirths": 338
+      },
+      {
+        "step": 9,
+        "rebirths": 169
+      },
+      {
+        "step": 10,
+        "rebirths": 84
+      },
+      {
+        "step": 11,
+        "rebirths": 42
+      },
+      {
+        "step": 12,
+        "rebirths": 21
+      },
+      {
+        "step": 13,
+        "rebirths": 10
+      },
+      {
+        "step": 14,
+        "rebirths": 5
+      },
+      {
+        "step": 15,
+        "rebirths": 2
+      },
+      {
+        "step": 16,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 17500,
+    "rebirths": 87480,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 87480
+      },
+      {
+        "step": 1,
+        "rebirths": 43740
+      },
+      {
+        "step": 2,
+        "rebirths": 21870
+      },
+      {
+        "step": 3,
+        "rebirths": 10935
+      },
+      {
+        "step": 4,
+        "rebirths": 5467
+      },
+      {
+        "step": 5,
+        "rebirths": 2733
+      },
+      {
+        "step": 6,
+        "rebirths": 1366
+      },
+      {
+        "step": 7,
+        "rebirths": 683
+      },
+      {
+        "step": 8,
+        "rebirths": 341
+      },
+      {
+        "step": 9,
+        "rebirths": 170
+      },
+      {
+        "step": 10,
+        "rebirths": 85
+      },
+      {
+        "step": 11,
+        "rebirths": 42
+      },
+      {
+        "step": 12,
+        "rebirths": 21
+      },
+      {
+        "step": 13,
+        "rebirths": 10
+      },
+      {
+        "step": 14,
+        "rebirths": 5
+      },
+      {
+        "step": 15,
+        "rebirths": 2
+      },
+      {
+        "step": 16,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Frost",
+    "rock": "Frozen",
+    "xp": 37500,
+    "rebirths": 99980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 99980
+      },
+      {
+        "step": 1,
+        "rebirths": 49990
+      },
+      {
+        "step": 2,
+        "rebirths": 24995
+      },
+      {
+        "step": 3,
+        "rebirths": 12497
+      },
+      {
+        "step": 4,
+        "rebirths": 6248
+      },
+      {
+        "step": 5,
+        "rebirths": 3124
+      },
+      {
+        "step": 6,
+        "rebirths": 1562
+      },
+      {
+        "step": 7,
+        "rebirths": 781
+      },
+      {
+        "step": 8,
+        "rebirths": 390
+      },
+      {
+        "step": 9,
+        "rebirths": 195
+      },
+      {
+        "step": 10,
+        "rebirths": 97
+      },
+      {
+        "step": 11,
+        "rebirths": 48
+      },
+      {
+        "step": 12,
+        "rebirths": 24
+      },
+      {
+        "step": 13,
+        "rebirths": 12
+      },
+      {
+        "step": 14,
+        "rebirths": 6
+      },
+      {
+        "step": 15,
+        "rebirths": 3
+      },
+      {
+        "step": 16,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 5000,
+    "rebirths": 99980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 99980
+      },
+      {
+        "step": 1,
+        "rebirths": 49990
+      },
+      {
+        "step": 2,
+        "rebirths": 24995
+      },
+      {
+        "step": 3,
+        "rebirths": 12497
+      },
+      {
+        "step": 4,
+        "rebirths": 6248
+      },
+      {
+        "step": 5,
+        "rebirths": 3124
+      },
+      {
+        "step": 6,
+        "rebirths": 1562
+      },
+      {
+        "step": 7,
+        "rebirths": 781
+      },
+      {
+        "step": 8,
+        "rebirths": 390
+      },
+      {
+        "step": 9,
+        "rebirths": 195
+      },
+      {
+        "step": 10,
+        "rebirths": 97
+      },
+      {
+        "step": 11,
+        "rebirths": 48
+      },
+      {
+        "step": 12,
+        "rebirths": 24
+      },
+      {
+        "step": 13,
+        "rebirths": 12
+      },
+      {
+        "step": 14,
+        "rebirths": 6
+      },
+      {
+        "step": 15,
+        "rebirths": 3
+      },
+      {
+        "step": 16,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 20000,
+    "rebirths": 99980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 99980
+      },
+      {
+        "step": 1,
+        "rebirths": 49990
+      },
+      {
+        "step": 2,
+        "rebirths": 24995
+      },
+      {
+        "step": 3,
+        "rebirths": 12497
+      },
+      {
+        "step": 4,
+        "rebirths": 6248
+      },
+      {
+        "step": 5,
+        "rebirths": 3124
+      },
+      {
+        "step": 6,
+        "rebirths": 1562
+      },
+      {
+        "step": 7,
+        "rebirths": 781
+      },
+      {
+        "step": 8,
+        "rebirths": 390
+      },
+      {
+        "step": 9,
+        "rebirths": 195
+      },
+      {
+        "step": 10,
+        "rebirths": 97
+      },
+      {
+        "step": 11,
+        "rebirths": 48
+      },
+      {
+        "step": 12,
+        "rebirths": 24
+      },
+      {
+        "step": 13,
+        "rebirths": 12
+      },
+      {
+        "step": 14,
+        "rebirths": 6
+      },
+      {
+        "step": 15,
+        "rebirths": 3
+      },
+      {
+        "step": 16,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Frost",
+    "rock": "Frozen",
+    "xp": 40000,
+    "rebirths": 106646,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 106646
+      },
+      {
+        "step": 1,
+        "rebirths": 53323
+      },
+      {
+        "step": 2,
+        "rebirths": 26661
+      },
+      {
+        "step": 3,
+        "rebirths": 13330
+      },
+      {
+        "step": 4,
+        "rebirths": 6665
+      },
+      {
+        "step": 5,
+        "rebirths": 3332
+      },
+      {
+        "step": 6,
+        "rebirths": 1666
+      },
+      {
+        "step": 7,
+        "rebirths": 833
+      },
+      {
+        "step": 8,
+        "rebirths": 416
+      },
+      {
+        "step": 9,
+        "rebirths": 208
+      },
+      {
+        "step": 10,
+        "rebirths": 104
+      },
+      {
+        "step": 11,
+        "rebirths": 52
+      },
+      {
+        "step": 12,
+        "rebirths": 26
+      },
+      {
+        "step": 13,
+        "rebirths": 13
+      },
+      {
+        "step": 14,
+        "rebirths": 6
+      },
+      {
+        "step": 15,
+        "rebirths": 3
+      },
+      {
+        "step": 16,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 22500,
+    "rebirths": 112480,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 112480
+      },
+      {
+        "step": 1,
+        "rebirths": 56240
+      },
+      {
+        "step": 2,
+        "rebirths": 28120
+      },
+      {
+        "step": 3,
+        "rebirths": 14060
+      },
+      {
+        "step": 4,
+        "rebirths": 7030
+      },
+      {
+        "step": 5,
+        "rebirths": 3515
+      },
+      {
+        "step": 6,
+        "rebirths": 1757
+      },
+      {
+        "step": 7,
+        "rebirths": 878
+      },
+      {
+        "step": 8,
+        "rebirths": 439
+      },
+      {
+        "step": 9,
+        "rebirths": 219
+      },
+      {
+        "step": 10,
+        "rebirths": 109
+      },
+      {
+        "step": 11,
+        "rebirths": 54
+      },
+      {
+        "step": 12,
+        "rebirths": 27
+      },
+      {
+        "step": 13,
+        "rebirths": 13
+      },
+      {
+        "step": 14,
+        "rebirths": 6
+      },
+      {
+        "step": 15,
+        "rebirths": 3
+      },
+      {
+        "step": 16,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 3000,
+    "rebirths": 119980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 119980
+      },
+      {
+        "step": 1,
+        "rebirths": 59990
+      },
+      {
+        "step": 2,
+        "rebirths": 29995
+      },
+      {
+        "step": 3,
+        "rebirths": 14997
+      },
+      {
+        "step": 4,
+        "rebirths": 7498
+      },
+      {
+        "step": 5,
+        "rebirths": 3749
+      },
+      {
+        "step": 6,
+        "rebirths": 1874
+      },
+      {
+        "step": 7,
+        "rebirths": 937
+      },
+      {
+        "step": 8,
+        "rebirths": 468
+      },
+      {
+        "step": 9,
+        "rebirths": 234
+      },
+      {
+        "step": 10,
+        "rebirths": 117
+      },
+      {
+        "step": 11,
+        "rebirths": 58
+      },
+      {
+        "step": 12,
+        "rebirths": 29
+      },
+      {
+        "step": 13,
+        "rebirths": 14
+      },
+      {
+        "step": 14,
+        "rebirths": 7
+      },
+      {
+        "step": 15,
+        "rebirths": 3
+      },
+      {
+        "step": 16,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 3000,
+    "rebirths": 119980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 119980
+      },
+      {
+        "step": 1,
+        "rebirths": 59990
+      },
+      {
+        "step": 2,
+        "rebirths": 29995
+      },
+      {
+        "step": 3,
+        "rebirths": 14997
+      },
+      {
+        "step": 4,
+        "rebirths": 7498
+      },
+      {
+        "step": 5,
+        "rebirths": 3749
+      },
+      {
+        "step": 6,
+        "rebirths": 1874
+      },
+      {
+        "step": 7,
+        "rebirths": 937
+      },
+      {
+        "step": 8,
+        "rebirths": 468
+      },
+      {
+        "step": 9,
+        "rebirths": 234
+      },
+      {
+        "step": 10,
+        "rebirths": 117
+      },
+      {
+        "step": 11,
+        "rebirths": 58
+      },
+      {
+        "step": 12,
+        "rebirths": 29
+      },
+      {
+        "step": 13,
+        "rebirths": 14
+      },
+      {
+        "step": 14,
+        "rebirths": 7
+      },
+      {
+        "step": 15,
+        "rebirths": 3
+      },
+      {
+        "step": 16,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 25000,
+    "rebirths": 124980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 124980
+      },
+      {
+        "step": 1,
+        "rebirths": 62490
+      },
+      {
+        "step": 2,
+        "rebirths": 31245
+      },
+      {
+        "step": 3,
+        "rebirths": 15622
+      },
+      {
+        "step": 4,
+        "rebirths": 7811
+      },
+      {
+        "step": 5,
+        "rebirths": 3905
+      },
+      {
+        "step": 6,
+        "rebirths": 1952
+      },
+      {
+        "step": 7,
+        "rebirths": 976
+      },
+      {
+        "step": 8,
+        "rebirths": 488
+      },
+      {
+        "step": 9,
+        "rebirths": 244
+      },
+      {
+        "step": 10,
+        "rebirths": 122
+      },
+      {
+        "step": 11,
+        "rebirths": 61
+      },
+      {
+        "step": 12,
+        "rebirths": 30
+      },
+      {
+        "step": 13,
+        "rebirths": 15
+      },
+      {
+        "step": 14,
+        "rebirths": 7
+      },
+      {
+        "step": 15,
+        "rebirths": 3
+      },
+      {
+        "step": 16,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 27500,
+    "rebirths": 137480,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 137480
+      },
+      {
+        "step": 1,
+        "rebirths": 68740
+      },
+      {
+        "step": 2,
+        "rebirths": 34370
+      },
+      {
+        "step": 3,
+        "rebirths": 17185
+      },
+      {
+        "step": 4,
+        "rebirths": 8592
+      },
+      {
+        "step": 5,
+        "rebirths": 4296
+      },
+      {
+        "step": 6,
+        "rebirths": 2148
+      },
+      {
+        "step": 7,
+        "rebirths": 1074
+      },
+      {
+        "step": 8,
+        "rebirths": 537
+      },
+      {
+        "step": 9,
+        "rebirths": 268
+      },
+      {
+        "step": 10,
+        "rebirths": 134
+      },
+      {
+        "step": 11,
+        "rebirths": 67
+      },
+      {
+        "step": 12,
+        "rebirths": 33
+      },
+      {
+        "step": 13,
+        "rebirths": 16
+      },
+      {
+        "step": 14,
+        "rebirths": 8
+      },
+      {
+        "step": 15,
+        "rebirths": 4
+      },
+      {
+        "step": 16,
+        "rebirths": 2
+      },
+      {
+        "step": 17,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 7500,
+    "rebirths": 149980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 149980
+      },
+      {
+        "step": 1,
+        "rebirths": 74990
+      },
+      {
+        "step": 2,
+        "rebirths": 37495
+      },
+      {
+        "step": 3,
+        "rebirths": 18747
+      },
+      {
+        "step": 4,
+        "rebirths": 9373
+      },
+      {
+        "step": 5,
+        "rebirths": 4686
+      },
+      {
+        "step": 6,
+        "rebirths": 2343
+      },
+      {
+        "step": 7,
+        "rebirths": 1171
+      },
+      {
+        "step": 8,
+        "rebirths": 585
+      },
+      {
+        "step": 9,
+        "rebirths": 292
+      },
+      {
+        "step": 10,
+        "rebirths": 146
+      },
+      {
+        "step": 11,
+        "rebirths": 73
+      },
+      {
+        "step": 12,
+        "rebirths": 36
+      },
+      {
+        "step": 13,
+        "rebirths": 18
+      },
+      {
+        "step": 14,
+        "rebirths": 9
+      },
+      {
+        "step": 15,
+        "rebirths": 4
+      },
+      {
+        "step": 16,
+        "rebirths": 2
+      },
+      {
+        "step": 17,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 30000,
+    "rebirths": 149980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 149980
+      },
+      {
+        "step": 1,
+        "rebirths": 74990
+      },
+      {
+        "step": 2,
+        "rebirths": 37495
+      },
+      {
+        "step": 3,
+        "rebirths": 18747
+      },
+      {
+        "step": 4,
+        "rebirths": 9373
+      },
+      {
+        "step": 5,
+        "rebirths": 4686
+      },
+      {
+        "step": 6,
+        "rebirths": 2343
+      },
+      {
+        "step": 7,
+        "rebirths": 1171
+      },
+      {
+        "step": 8,
+        "rebirths": 585
+      },
+      {
+        "step": 9,
+        "rebirths": 292
+      },
+      {
+        "step": 10,
+        "rebirths": 146
+      },
+      {
+        "step": 11,
+        "rebirths": 73
+      },
+      {
+        "step": 12,
+        "rebirths": 36
+      },
+      {
+        "step": 13,
+        "rebirths": 18
+      },
+      {
+        "step": 14,
+        "rebirths": 9
+      },
+      {
+        "step": 15,
+        "rebirths": 4
+      },
+      {
+        "step": 16,
+        "rebirths": 2
+      },
+      {
+        "step": 17,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 32500,
+    "rebirths": 162480,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 162480
+      },
+      {
+        "step": 1,
+        "rebirths": 81240
+      },
+      {
+        "step": 2,
+        "rebirths": 40620
+      },
+      {
+        "step": 3,
+        "rebirths": 20310
+      },
+      {
+        "step": 4,
+        "rebirths": 10155
+      },
+      {
+        "step": 5,
+        "rebirths": 5077
+      },
+      {
+        "step": 6,
+        "rebirths": 2538
+      },
+      {
+        "step": 7,
+        "rebirths": 1269
+      },
+      {
+        "step": 8,
+        "rebirths": 634
+      },
+      {
+        "step": 9,
+        "rebirths": 317
+      },
+      {
+        "step": 10,
+        "rebirths": 158
+      },
+      {
+        "step": 11,
+        "rebirths": 79
+      },
+      {
+        "step": 12,
+        "rebirths": 39
+      },
+      {
+        "step": 13,
+        "rebirths": 19
+      },
+      {
+        "step": 14,
+        "rebirths": 9
+      },
+      {
+        "step": 15,
+        "rebirths": 4
+      },
+      {
+        "step": 16,
+        "rebirths": 2
+      },
+      {
+        "step": 17,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 35000,
+    "rebirths": 174980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 174980
+      },
+      {
+        "step": 1,
+        "rebirths": 87490
+      },
+      {
+        "step": 2,
+        "rebirths": 43745
+      },
+      {
+        "step": 3,
+        "rebirths": 21872
+      },
+      {
+        "step": 4,
+        "rebirths": 10936
+      },
+      {
+        "step": 5,
+        "rebirths": 5468
+      },
+      {
+        "step": 6,
+        "rebirths": 2734
+      },
+      {
+        "step": 7,
+        "rebirths": 1367
+      },
+      {
+        "step": 8,
+        "rebirths": 683
+      },
+      {
+        "step": 9,
+        "rebirths": 341
+      },
+      {
+        "step": 10,
+        "rebirths": 170
+      },
+      {
+        "step": 11,
+        "rebirths": 85
+      },
+      {
+        "step": 12,
+        "rebirths": 42
+      },
+      {
+        "step": 13,
+        "rebirths": 21
+      },
+      {
+        "step": 14,
+        "rebirths": 10
+      },
+      {
+        "step": 15,
+        "rebirths": 5
+      },
+      {
+        "step": 16,
+        "rebirths": 2
+      },
+      {
+        "step": 17,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 37500,
+    "rebirths": 187480,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 187480
+      },
+      {
+        "step": 1,
+        "rebirths": 93740
+      },
+      {
+        "step": 2,
+        "rebirths": 46870
+      },
+      {
+        "step": 3,
+        "rebirths": 23435
+      },
+      {
+        "step": 4,
+        "rebirths": 11717
+      },
+      {
+        "step": 5,
+        "rebirths": 5858
+      },
+      {
+        "step": 6,
+        "rebirths": 2929
+      },
+      {
+        "step": 7,
+        "rebirths": 1464
+      },
+      {
+        "step": 8,
+        "rebirths": 732
+      },
+      {
+        "step": 9,
+        "rebirths": 366
+      },
+      {
+        "step": 10,
+        "rebirths": 183
+      },
+      {
+        "step": 11,
+        "rebirths": 91
+      },
+      {
+        "step": 12,
+        "rebirths": 45
+      },
+      {
+        "step": 13,
+        "rebirths": 22
+      },
+      {
+        "step": 14,
+        "rebirths": 11
+      },
+      {
+        "step": 15,
+        "rebirths": 5
+      },
+      {
+        "step": 16,
+        "rebirths": 2
+      },
+      {
+        "step": 17,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 40000,
+    "rebirths": 199980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 199980
+      },
+      {
+        "step": 1,
+        "rebirths": 99990
+      },
+      {
+        "step": 2,
+        "rebirths": 49995
+      },
+      {
+        "step": 3,
+        "rebirths": 24997
+      },
+      {
+        "step": 4,
+        "rebirths": 12498
+      },
+      {
+        "step": 5,
+        "rebirths": 6249
+      },
+      {
+        "step": 6,
+        "rebirths": 3124
+      },
+      {
+        "step": 7,
+        "rebirths": 1562
+      },
+      {
+        "step": 8,
+        "rebirths": 781
+      },
+      {
+        "step": 9,
+        "rebirths": 390
+      },
+      {
+        "step": 10,
+        "rebirths": 195
+      },
+      {
+        "step": 11,
+        "rebirths": 97
+      },
+      {
+        "step": 12,
+        "rebirths": 48
+      },
+      {
+        "step": 13,
+        "rebirths": 24
+      },
+      {
+        "step": 14,
+        "rebirths": 12
+      },
+      {
+        "step": 15,
+        "rebirths": 6
+      },
+      {
+        "step": 16,
+        "rebirths": 3
+      },
+      {
+        "step": 17,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 10000,
+    "rebirths": 199980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 199980
+      },
+      {
+        "step": 1,
+        "rebirths": 99990
+      },
+      {
+        "step": 2,
+        "rebirths": 49995
+      },
+      {
+        "step": 3,
+        "rebirths": 24997
+      },
+      {
+        "step": 4,
+        "rebirths": 12498
+      },
+      {
+        "step": 5,
+        "rebirths": 6249
+      },
+      {
+        "step": 6,
+        "rebirths": 3124
+      },
+      {
+        "step": 7,
+        "rebirths": 1562
+      },
+      {
+        "step": 8,
+        "rebirths": 781
+      },
+      {
+        "step": 9,
+        "rebirths": 390
+      },
+      {
+        "step": 10,
+        "rebirths": 195
+      },
+      {
+        "step": 11,
+        "rebirths": 97
+      },
+      {
+        "step": 12,
+        "rebirths": 48
+      },
+      {
+        "step": 13,
+        "rebirths": 24
+      },
+      {
+        "step": 14,
+        "rebirths": 12
+      },
+      {
+        "step": 15,
+        "rebirths": 6
+      },
+      {
+        "step": 16,
+        "rebirths": 3
+      },
+      {
+        "step": 17,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 5000,
+    "rebirths": 199980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 199980
+      },
+      {
+        "step": 1,
+        "rebirths": 99990
+      },
+      {
+        "step": 2,
+        "rebirths": 49995
+      },
+      {
+        "step": 3,
+        "rebirths": 24997
+      },
+      {
+        "step": 4,
+        "rebirths": 12498
+      },
+      {
+        "step": 5,
+        "rebirths": 6249
+      },
+      {
+        "step": 6,
+        "rebirths": 3124
+      },
+      {
+        "step": 7,
+        "rebirths": 1562
+      },
+      {
+        "step": 8,
+        "rebirths": 781
+      },
+      {
+        "step": 9,
+        "rebirths": 390
+      },
+      {
+        "step": 10,
+        "rebirths": 195
+      },
+      {
+        "step": 11,
+        "rebirths": 97
+      },
+      {
+        "step": 12,
+        "rebirths": 48
+      },
+      {
+        "step": 13,
+        "rebirths": 24
+      },
+      {
+        "step": 14,
+        "rebirths": 12
+      },
+      {
+        "step": 15,
+        "rebirths": 6
+      },
+      {
+        "step": 16,
+        "rebirths": 3
+      },
+      {
+        "step": 17,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 5000,
+    "rebirths": 199980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 199980
+      },
+      {
+        "step": 1,
+        "rebirths": 99990
+      },
+      {
+        "step": 2,
+        "rebirths": 49995
+      },
+      {
+        "step": 3,
+        "rebirths": 24997
+      },
+      {
+        "step": 4,
+        "rebirths": 12498
+      },
+      {
+        "step": 5,
+        "rebirths": 6249
+      },
+      {
+        "step": 6,
+        "rebirths": 3124
+      },
+      {
+        "step": 7,
+        "rebirths": 1562
+      },
+      {
+        "step": 8,
+        "rebirths": 781
+      },
+      {
+        "step": 9,
+        "rebirths": 390
+      },
+      {
+        "step": 10,
+        "rebirths": 195
+      },
+      {
+        "step": 11,
+        "rebirths": 97
+      },
+      {
+        "step": 12,
+        "rebirths": 48
+      },
+      {
+        "step": 13,
+        "rebirths": 24
+      },
+      {
+        "step": 14,
+        "rebirths": 12
+      },
+      {
+        "step": 15,
+        "rebirths": 6
+      },
+      {
+        "step": 16,
+        "rebirths": 3
+      },
+      {
+        "step": 17,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Golden",
+    "xp": 42500,
+    "rebirths": 212480,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 212480
+      },
+      {
+        "step": 1,
+        "rebirths": 106240
+      },
+      {
+        "step": 2,
+        "rebirths": 53120
+      },
+      {
+        "step": 3,
+        "rebirths": 26560
+      },
+      {
+        "step": 4,
+        "rebirths": 13280
+      },
+      {
+        "step": 5,
+        "rebirths": 6640
+      },
+      {
+        "step": 6,
+        "rebirths": 3320
+      },
+      {
+        "step": 7,
+        "rebirths": 1660
+      },
+      {
+        "step": 8,
+        "rebirths": 830
+      },
+      {
+        "step": 9,
+        "rebirths": 415
+      },
+      {
+        "step": 10,
+        "rebirths": 207
+      },
+      {
+        "step": 11,
+        "rebirths": 103
+      },
+      {
+        "step": 12,
+        "rebirths": 51
+      },
+      {
+        "step": 13,
+        "rebirths": 25
+      },
+      {
+        "step": 14,
+        "rebirths": 12
+      },
+      {
+        "step": 15,
+        "rebirths": 6
+      },
+      {
+        "step": 16,
+        "rebirths": 3
+      },
+      {
+        "step": 17,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 12500,
+    "rebirths": 249980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 249980
+      },
+      {
+        "step": 1,
+        "rebirths": 124990
+      },
+      {
+        "step": 2,
+        "rebirths": 62495
+      },
+      {
+        "step": 3,
+        "rebirths": 31247
+      },
+      {
+        "step": 4,
+        "rebirths": 15623
+      },
+      {
+        "step": 5,
+        "rebirths": 7811
+      },
+      {
+        "step": 6,
+        "rebirths": 3905
+      },
+      {
+        "step": 7,
+        "rebirths": 1952
+      },
+      {
+        "step": 8,
+        "rebirths": 976
+      },
+      {
+        "step": 9,
+        "rebirths": 488
+      },
+      {
+        "step": 10,
+        "rebirths": 244
+      },
+      {
+        "step": 11,
+        "rebirths": 122
+      },
+      {
+        "step": 12,
+        "rebirths": 61
+      },
+      {
+        "step": 13,
+        "rebirths": 30
+      },
+      {
+        "step": 14,
+        "rebirths": 15
+      },
+      {
+        "step": 15,
+        "rebirths": 7
+      },
+      {
+        "step": 16,
+        "rebirths": 3
+      },
+      {
+        "step": 17,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 15000,
+    "rebirths": 299980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 299980
+      },
+      {
+        "step": 1,
+        "rebirths": 149990
+      },
+      {
+        "step": 2,
+        "rebirths": 74995
+      },
+      {
+        "step": 3,
+        "rebirths": 37497
+      },
+      {
+        "step": 4,
+        "rebirths": 18748
+      },
+      {
+        "step": 5,
+        "rebirths": 9374
+      },
+      {
+        "step": 6,
+        "rebirths": 4687
+      },
+      {
+        "step": 7,
+        "rebirths": 2343
+      },
+      {
+        "step": 8,
+        "rebirths": 1171
+      },
+      {
+        "step": 9,
+        "rebirths": 585
+      },
+      {
+        "step": 10,
+        "rebirths": 292
+      },
+      {
+        "step": 11,
+        "rebirths": 146
+      },
+      {
+        "step": 12,
+        "rebirths": 73
+      },
+      {
+        "step": 13,
+        "rebirths": 36
+      },
+      {
+        "step": 14,
+        "rebirths": 18
+      },
+      {
+        "step": 15,
+        "rebirths": 9
+      },
+      {
+        "step": 16,
+        "rebirths": 4
+      },
+      {
+        "step": 17,
+        "rebirths": 2
+      },
+      {
+        "step": 18,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 7500,
+    "rebirths": 299980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 299980
+      },
+      {
+        "step": 1,
+        "rebirths": 149990
+      },
+      {
+        "step": 2,
+        "rebirths": 74995
+      },
+      {
+        "step": 3,
+        "rebirths": 37497
+      },
+      {
+        "step": 4,
+        "rebirths": 18748
+      },
+      {
+        "step": 5,
+        "rebirths": 9374
+      },
+      {
+        "step": 6,
+        "rebirths": 4687
+      },
+      {
+        "step": 7,
+        "rebirths": 2343
+      },
+      {
+        "step": 8,
+        "rebirths": 1171
+      },
+      {
+        "step": 9,
+        "rebirths": 585
+      },
+      {
+        "step": 10,
+        "rebirths": 292
+      },
+      {
+        "step": 11,
+        "rebirths": 146
+      },
+      {
+        "step": 12,
+        "rebirths": 73
+      },
+      {
+        "step": 13,
+        "rebirths": 36
+      },
+      {
+        "step": 14,
+        "rebirths": 18
+      },
+      {
+        "step": 15,
+        "rebirths": 9
+      },
+      {
+        "step": 16,
+        "rebirths": 4
+      },
+      {
+        "step": 17,
+        "rebirths": 2
+      },
+      {
+        "step": 18,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 7500,
+    "rebirths": 299980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 299980
+      },
+      {
+        "step": 1,
+        "rebirths": 149990
+      },
+      {
+        "step": 2,
+        "rebirths": 74995
+      },
+      {
+        "step": 3,
+        "rebirths": 37497
+      },
+      {
+        "step": 4,
+        "rebirths": 18748
+      },
+      {
+        "step": 5,
+        "rebirths": 9374
+      },
+      {
+        "step": 6,
+        "rebirths": 4687
+      },
+      {
+        "step": 7,
+        "rebirths": 2343
+      },
+      {
+        "step": 8,
+        "rebirths": 1171
+      },
+      {
+        "step": 9,
+        "rebirths": 585
+      },
+      {
+        "step": 10,
+        "rebirths": 292
+      },
+      {
+        "step": 11,
+        "rebirths": 146
+      },
+      {
+        "step": 12,
+        "rebirths": 73
+      },
+      {
+        "step": 13,
+        "rebirths": 36
+      },
+      {
+        "step": 14,
+        "rebirths": 18
+      },
+      {
+        "step": 15,
+        "rebirths": 9
+      },
+      {
+        "step": 16,
+        "rebirths": 4
+      },
+      {
+        "step": 17,
+        "rebirths": 2
+      },
+      {
+        "step": 18,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 17500,
+    "rebirths": 349980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 349980
+      },
+      {
+        "step": 1,
+        "rebirths": 174990
+      },
+      {
+        "step": 2,
+        "rebirths": 87495
+      },
+      {
+        "step": 3,
+        "rebirths": 43747
+      },
+      {
+        "step": 4,
+        "rebirths": 21873
+      },
+      {
+        "step": 5,
+        "rebirths": 10936
+      },
+      {
+        "step": 6,
+        "rebirths": 5468
+      },
+      {
+        "step": 7,
+        "rebirths": 2734
+      },
+      {
+        "step": 8,
+        "rebirths": 1367
+      },
+      {
+        "step": 9,
+        "rebirths": 683
+      },
+      {
+        "step": 10,
+        "rebirths": 341
+      },
+      {
+        "step": 11,
+        "rebirths": 170
+      },
+      {
+        "step": 12,
+        "rebirths": 85
+      },
+      {
+        "step": 13,
+        "rebirths": 42
+      },
+      {
+        "step": 14,
+        "rebirths": 21
+      },
+      {
+        "step": 15,
+        "rebirths": 10
+      },
+      {
+        "step": 16,
+        "rebirths": 5
+      },
+      {
+        "step": 17,
+        "rebirths": 2
+      },
+      {
+        "step": 18,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 10000,
+    "rebirths": 399980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 399980
+      },
+      {
+        "step": 1,
+        "rebirths": 199990
+      },
+      {
+        "step": 2,
+        "rebirths": 99995
+      },
+      {
+        "step": 3,
+        "rebirths": 49997
+      },
+      {
+        "step": 4,
+        "rebirths": 24998
+      },
+      {
+        "step": 5,
+        "rebirths": 12499
+      },
+      {
+        "step": 6,
+        "rebirths": 6249
+      },
+      {
+        "step": 7,
+        "rebirths": 3124
+      },
+      {
+        "step": 8,
+        "rebirths": 1562
+      },
+      {
+        "step": 9,
+        "rebirths": 781
+      },
+      {
+        "step": 10,
+        "rebirths": 390
+      },
+      {
+        "step": 11,
+        "rebirths": 195
+      },
+      {
+        "step": 12,
+        "rebirths": 97
+      },
+      {
+        "step": 13,
+        "rebirths": 48
+      },
+      {
+        "step": 14,
+        "rebirths": 24
+      },
+      {
+        "step": 15,
+        "rebirths": 12
+      },
+      {
+        "step": 16,
+        "rebirths": 6
+      },
+      {
+        "step": 17,
+        "rebirths": 3
+      },
+      {
+        "step": 18,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 10000,
+    "rebirths": 399980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 399980
+      },
+      {
+        "step": 1,
+        "rebirths": 199990
+      },
+      {
+        "step": 2,
+        "rebirths": 99995
+      },
+      {
+        "step": 3,
+        "rebirths": 49997
+      },
+      {
+        "step": 4,
+        "rebirths": 24998
+      },
+      {
+        "step": 5,
+        "rebirths": 12499
+      },
+      {
+        "step": 6,
+        "rebirths": 6249
+      },
+      {
+        "step": 7,
+        "rebirths": 3124
+      },
+      {
+        "step": 8,
+        "rebirths": 1562
+      },
+      {
+        "step": 9,
+        "rebirths": 781
+      },
+      {
+        "step": 10,
+        "rebirths": 390
+      },
+      {
+        "step": 11,
+        "rebirths": 195
+      },
+      {
+        "step": 12,
+        "rebirths": 97
+      },
+      {
+        "step": 13,
+        "rebirths": 48
+      },
+      {
+        "step": 14,
+        "rebirths": 24
+      },
+      {
+        "step": 15,
+        "rebirths": 12
+      },
+      {
+        "step": 16,
+        "rebirths": 6
+      },
+      {
+        "step": 17,
+        "rebirths": 3
+      },
+      {
+        "step": 18,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 20000,
+    "rebirths": 399980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 399980
+      },
+      {
+        "step": 1,
+        "rebirths": 199990
+      },
+      {
+        "step": 2,
+        "rebirths": 99995
+      },
+      {
+        "step": 3,
+        "rebirths": 49997
+      },
+      {
+        "step": 4,
+        "rebirths": 24998
+      },
+      {
+        "step": 5,
+        "rebirths": 12499
+      },
+      {
+        "step": 6,
+        "rebirths": 6249
+      },
+      {
+        "step": 7,
+        "rebirths": 3124
+      },
+      {
+        "step": 8,
+        "rebirths": 1562
+      },
+      {
+        "step": 9,
+        "rebirths": 781
+      },
+      {
+        "step": 10,
+        "rebirths": 390
+      },
+      {
+        "step": 11,
+        "rebirths": 195
+      },
+      {
+        "step": 12,
+        "rebirths": 97
+      },
+      {
+        "step": 13,
+        "rebirths": 48
+      },
+      {
+        "step": 14,
+        "rebirths": 24
+      },
+      {
+        "step": 15,
+        "rebirths": 12
+      },
+      {
+        "step": 16,
+        "rebirths": 6
+      },
+      {
+        "step": 17,
+        "rebirths": 3
+      },
+      {
+        "step": 18,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 22500,
+    "rebirths": 449980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 449980
+      },
+      {
+        "step": 1,
+        "rebirths": 224990
+      },
+      {
+        "step": 2,
+        "rebirths": 112495
+      },
+      {
+        "step": 3,
+        "rebirths": 56247
+      },
+      {
+        "step": 4,
+        "rebirths": 28123
+      },
+      {
+        "step": 5,
+        "rebirths": 14061
+      },
+      {
+        "step": 6,
+        "rebirths": 7030
+      },
+      {
+        "step": 7,
+        "rebirths": 3515
+      },
+      {
+        "step": 8,
+        "rebirths": 1757
+      },
+      {
+        "step": 9,
+        "rebirths": 878
+      },
+      {
+        "step": 10,
+        "rebirths": 439
+      },
+      {
+        "step": 11,
+        "rebirths": 219
+      },
+      {
+        "step": 12,
+        "rebirths": 109
+      },
+      {
+        "step": 13,
+        "rebirths": 54
+      },
+      {
+        "step": 14,
+        "rebirths": 27
+      },
+      {
+        "step": 15,
+        "rebirths": 13
+      },
+      {
+        "step": 16,
+        "rebirths": 6
+      },
+      {
+        "step": 17,
+        "rebirths": 3
+      },
+      {
+        "step": 18,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 12500,
+    "rebirths": 499980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 499980
+      },
+      {
+        "step": 1,
+        "rebirths": 249990
+      },
+      {
+        "step": 2,
+        "rebirths": 124995
+      },
+      {
+        "step": 3,
+        "rebirths": 62497
+      },
+      {
+        "step": 4,
+        "rebirths": 31248
+      },
+      {
+        "step": 5,
+        "rebirths": 15624
+      },
+      {
+        "step": 6,
+        "rebirths": 7812
+      },
+      {
+        "step": 7,
+        "rebirths": 3906
+      },
+      {
+        "step": 8,
+        "rebirths": 1953
+      },
+      {
+        "step": 9,
+        "rebirths": 976
+      },
+      {
+        "step": 10,
+        "rebirths": 488
+      },
+      {
+        "step": 11,
+        "rebirths": 244
+      },
+      {
+        "step": 12,
+        "rebirths": 122
+      },
+      {
+        "step": 13,
+        "rebirths": 61
+      },
+      {
+        "step": 14,
+        "rebirths": 30
+      },
+      {
+        "step": 15,
+        "rebirths": 15
+      },
+      {
+        "step": 16,
+        "rebirths": 7
+      },
+      {
+        "step": 17,
+        "rebirths": 3
+      },
+      {
+        "step": 18,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 12500,
+    "rebirths": 499980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 499980
+      },
+      {
+        "step": 1,
+        "rebirths": 249990
+      },
+      {
+        "step": 2,
+        "rebirths": 124995
+      },
+      {
+        "step": 3,
+        "rebirths": 62497
+      },
+      {
+        "step": 4,
+        "rebirths": 31248
+      },
+      {
+        "step": 5,
+        "rebirths": 15624
+      },
+      {
+        "step": 6,
+        "rebirths": 7812
+      },
+      {
+        "step": 7,
+        "rebirths": 3906
+      },
+      {
+        "step": 8,
+        "rebirths": 1953
+      },
+      {
+        "step": 9,
+        "rebirths": 976
+      },
+      {
+        "step": 10,
+        "rebirths": 488
+      },
+      {
+        "step": 11,
+        "rebirths": 244
+      },
+      {
+        "step": 12,
+        "rebirths": 122
+      },
+      {
+        "step": 13,
+        "rebirths": 61
+      },
+      {
+        "step": 14,
+        "rebirths": 30
+      },
+      {
+        "step": 15,
+        "rebirths": 15
+      },
+      {
+        "step": 16,
+        "rebirths": 7
+      },
+      {
+        "step": 17,
+        "rebirths": 3
+      },
+      {
+        "step": 18,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 25000,
+    "rebirths": 499980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 499980
+      },
+      {
+        "step": 1,
+        "rebirths": 249990
+      },
+      {
+        "step": 2,
+        "rebirths": 124995
+      },
+      {
+        "step": 3,
+        "rebirths": 62497
+      },
+      {
+        "step": 4,
+        "rebirths": 31248
+      },
+      {
+        "step": 5,
+        "rebirths": 15624
+      },
+      {
+        "step": 6,
+        "rebirths": 7812
+      },
+      {
+        "step": 7,
+        "rebirths": 3906
+      },
+      {
+        "step": 8,
+        "rebirths": 1953
+      },
+      {
+        "step": 9,
+        "rebirths": 976
+      },
+      {
+        "step": 10,
+        "rebirths": 488
+      },
+      {
+        "step": 11,
+        "rebirths": 244
+      },
+      {
+        "step": 12,
+        "rebirths": 122
+      },
+      {
+        "step": 13,
+        "rebirths": 61
+      },
+      {
+        "step": 14,
+        "rebirths": 30
+      },
+      {
+        "step": 15,
+        "rebirths": 15
+      },
+      {
+        "step": 16,
+        "rebirths": 7
+      },
+      {
+        "step": 17,
+        "rebirths": 3
+      },
+      {
+        "step": 18,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 27500,
+    "rebirths": 549980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 549980
+      },
+      {
+        "step": 1,
+        "rebirths": 274990
+      },
+      {
+        "step": 2,
+        "rebirths": 137495
+      },
+      {
+        "step": 3,
+        "rebirths": 68747
+      },
+      {
+        "step": 4,
+        "rebirths": 34373
+      },
+      {
+        "step": 5,
+        "rebirths": 17186
+      },
+      {
+        "step": 6,
+        "rebirths": 8593
+      },
+      {
+        "step": 7,
+        "rebirths": 4296
+      },
+      {
+        "step": 8,
+        "rebirths": 2148
+      },
+      {
+        "step": 9,
+        "rebirths": 1074
+      },
+      {
+        "step": 10,
+        "rebirths": 537
+      },
+      {
+        "step": 11,
+        "rebirths": 268
+      },
+      {
+        "step": 12,
+        "rebirths": 134
+      },
+      {
+        "step": 13,
+        "rebirths": 67
+      },
+      {
+        "step": 14,
+        "rebirths": 33
+      },
+      {
+        "step": 15,
+        "rebirths": 16
+      },
+      {
+        "step": 16,
+        "rebirths": 8
+      },
+      {
+        "step": 17,
+        "rebirths": 4
+      },
+      {
+        "step": 18,
+        "rebirths": 2
+      },
+      {
+        "step": 19,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 30000,
+    "rebirths": 599980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 599980
+      },
+      {
+        "step": 1,
+        "rebirths": 299990
+      },
+      {
+        "step": 2,
+        "rebirths": 149995
+      },
+      {
+        "step": 3,
+        "rebirths": 74997
+      },
+      {
+        "step": 4,
+        "rebirths": 37498
+      },
+      {
+        "step": 5,
+        "rebirths": 18749
+      },
+      {
+        "step": 6,
+        "rebirths": 9374
+      },
+      {
+        "step": 7,
+        "rebirths": 4687
+      },
+      {
+        "step": 8,
+        "rebirths": 2343
+      },
+      {
+        "step": 9,
+        "rebirths": 1171
+      },
+      {
+        "step": 10,
+        "rebirths": 585
+      },
+      {
+        "step": 11,
+        "rebirths": 292
+      },
+      {
+        "step": 12,
+        "rebirths": 146
+      },
+      {
+        "step": 13,
+        "rebirths": 73
+      },
+      {
+        "step": 14,
+        "rebirths": 36
+      },
+      {
+        "step": 15,
+        "rebirths": 18
+      },
+      {
+        "step": 16,
+        "rebirths": 9
+      },
+      {
+        "step": 17,
+        "rebirths": 4
+      },
+      {
+        "step": 18,
+        "rebirths": 2
+      },
+      {
+        "step": 19,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 15000,
+    "rebirths": 599980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 599980
+      },
+      {
+        "step": 1,
+        "rebirths": 299990
+      },
+      {
+        "step": 2,
+        "rebirths": 149995
+      },
+      {
+        "step": 3,
+        "rebirths": 74997
+      },
+      {
+        "step": 4,
+        "rebirths": 37498
+      },
+      {
+        "step": 5,
+        "rebirths": 18749
+      },
+      {
+        "step": 6,
+        "rebirths": 9374
+      },
+      {
+        "step": 7,
+        "rebirths": 4687
+      },
+      {
+        "step": 8,
+        "rebirths": 2343
+      },
+      {
+        "step": 9,
+        "rebirths": 1171
+      },
+      {
+        "step": 10,
+        "rebirths": 585
+      },
+      {
+        "step": 11,
+        "rebirths": 292
+      },
+      {
+        "step": 12,
+        "rebirths": 146
+      },
+      {
+        "step": 13,
+        "rebirths": 73
+      },
+      {
+        "step": 14,
+        "rebirths": 36
+      },
+      {
+        "step": 15,
+        "rebirths": 18
+      },
+      {
+        "step": 16,
+        "rebirths": 9
+      },
+      {
+        "step": 17,
+        "rebirths": 4
+      },
+      {
+        "step": 18,
+        "rebirths": 2
+      },
+      {
+        "step": 19,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 15000,
+    "rebirths": 599980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 599980
+      },
+      {
+        "step": 1,
+        "rebirths": 299990
+      },
+      {
+        "step": 2,
+        "rebirths": 149995
+      },
+      {
+        "step": 3,
+        "rebirths": 74997
+      },
+      {
+        "step": 4,
+        "rebirths": 37498
+      },
+      {
+        "step": 5,
+        "rebirths": 18749
+      },
+      {
+        "step": 6,
+        "rebirths": 9374
+      },
+      {
+        "step": 7,
+        "rebirths": 4687
+      },
+      {
+        "step": 8,
+        "rebirths": 2343
+      },
+      {
+        "step": 9,
+        "rebirths": 1171
+      },
+      {
+        "step": 10,
+        "rebirths": 585
+      },
+      {
+        "step": 11,
+        "rebirths": 292
+      },
+      {
+        "step": 12,
+        "rebirths": 146
+      },
+      {
+        "step": 13,
+        "rebirths": 73
+      },
+      {
+        "step": 14,
+        "rebirths": 36
+      },
+      {
+        "step": 15,
+        "rebirths": 18
+      },
+      {
+        "step": 16,
+        "rebirths": 9
+      },
+      {
+        "step": 17,
+        "rebirths": 4
+      },
+      {
+        "step": 18,
+        "rebirths": 2
+      },
+      {
+        "step": 19,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 32500,
+    "rebirths": 649980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 649980
+      },
+      {
+        "step": 1,
+        "rebirths": 324990
+      },
+      {
+        "step": 2,
+        "rebirths": 162495
+      },
+      {
+        "step": 3,
+        "rebirths": 81247
+      },
+      {
+        "step": 4,
+        "rebirths": 40623
+      },
+      {
+        "step": 5,
+        "rebirths": 20311
+      },
+      {
+        "step": 6,
+        "rebirths": 10155
+      },
+      {
+        "step": 7,
+        "rebirths": 5077
+      },
+      {
+        "step": 8,
+        "rebirths": 2538
+      },
+      {
+        "step": 9,
+        "rebirths": 1269
+      },
+      {
+        "step": 10,
+        "rebirths": 634
+      },
+      {
+        "step": 11,
+        "rebirths": 317
+      },
+      {
+        "step": 12,
+        "rebirths": 158
+      },
+      {
+        "step": 13,
+        "rebirths": 79
+      },
+      {
+        "step": 14,
+        "rebirths": 39
+      },
+      {
+        "step": 15,
+        "rebirths": 19
+      },
+      {
+        "step": 16,
+        "rebirths": 9
+      },
+      {
+        "step": 17,
+        "rebirths": 4
+      },
+      {
+        "step": 18,
+        "rebirths": 2
+      },
+      {
+        "step": 19,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 17500,
+    "rebirths": 699980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 699980
+      },
+      {
+        "step": 1,
+        "rebirths": 349990
+      },
+      {
+        "step": 2,
+        "rebirths": 174995
+      },
+      {
+        "step": 3,
+        "rebirths": 87497
+      },
+      {
+        "step": 4,
+        "rebirths": 43748
+      },
+      {
+        "step": 5,
+        "rebirths": 21874
+      },
+      {
+        "step": 6,
+        "rebirths": 10937
+      },
+      {
+        "step": 7,
+        "rebirths": 5468
+      },
+      {
+        "step": 8,
+        "rebirths": 2734
+      },
+      {
+        "step": 9,
+        "rebirths": 1367
+      },
+      {
+        "step": 10,
+        "rebirths": 683
+      },
+      {
+        "step": 11,
+        "rebirths": 341
+      },
+      {
+        "step": 12,
+        "rebirths": 170
+      },
+      {
+        "step": 13,
+        "rebirths": 85
+      },
+      {
+        "step": 14,
+        "rebirths": 42
+      },
+      {
+        "step": 15,
+        "rebirths": 21
+      },
+      {
+        "step": 16,
+        "rebirths": 10
+      },
+      {
+        "step": 17,
+        "rebirths": 5
+      },
+      {
+        "step": 18,
+        "rebirths": 2
+      },
+      {
+        "step": 19,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 17500,
+    "rebirths": 699980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 699980
+      },
+      {
+        "step": 1,
+        "rebirths": 349990
+      },
+      {
+        "step": 2,
+        "rebirths": 174995
+      },
+      {
+        "step": 3,
+        "rebirths": 87497
+      },
+      {
+        "step": 4,
+        "rebirths": 43748
+      },
+      {
+        "step": 5,
+        "rebirths": 21874
+      },
+      {
+        "step": 6,
+        "rebirths": 10937
+      },
+      {
+        "step": 7,
+        "rebirths": 5468
+      },
+      {
+        "step": 8,
+        "rebirths": 2734
+      },
+      {
+        "step": 9,
+        "rebirths": 1367
+      },
+      {
+        "step": 10,
+        "rebirths": 683
+      },
+      {
+        "step": 11,
+        "rebirths": 341
+      },
+      {
+        "step": 12,
+        "rebirths": 170
+      },
+      {
+        "step": 13,
+        "rebirths": 85
+      },
+      {
+        "step": 14,
+        "rebirths": 42
+      },
+      {
+        "step": 15,
+        "rebirths": 21
+      },
+      {
+        "step": 16,
+        "rebirths": 10
+      },
+      {
+        "step": 17,
+        "rebirths": 5
+      },
+      {
+        "step": 18,
+        "rebirths": 2
+      },
+      {
+        "step": 19,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 35000,
+    "rebirths": 699980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 699980
+      },
+      {
+        "step": 1,
+        "rebirths": 349990
+      },
+      {
+        "step": 2,
+        "rebirths": 174995
+      },
+      {
+        "step": 3,
+        "rebirths": 87497
+      },
+      {
+        "step": 4,
+        "rebirths": 43748
+      },
+      {
+        "step": 5,
+        "rebirths": 21874
+      },
+      {
+        "step": 6,
+        "rebirths": 10937
+      },
+      {
+        "step": 7,
+        "rebirths": 5468
+      },
+      {
+        "step": 8,
+        "rebirths": 2734
+      },
+      {
+        "step": 9,
+        "rebirths": 1367
+      },
+      {
+        "step": 10,
+        "rebirths": 683
+      },
+      {
+        "step": 11,
+        "rebirths": 341
+      },
+      {
+        "step": 12,
+        "rebirths": 170
+      },
+      {
+        "step": 13,
+        "rebirths": 85
+      },
+      {
+        "step": 14,
+        "rebirths": 42
+      },
+      {
+        "step": 15,
+        "rebirths": 21
+      },
+      {
+        "step": 16,
+        "rebirths": 10
+      },
+      {
+        "step": 17,
+        "rebirths": 5
+      },
+      {
+        "step": 18,
+        "rebirths": 2
+      },
+      {
+        "step": 19,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 37500,
+    "rebirths": 749980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 749980
+      },
+      {
+        "step": 1,
+        "rebirths": 374990
+      },
+      {
+        "step": 2,
+        "rebirths": 187495
+      },
+      {
+        "step": 3,
+        "rebirths": 93747
+      },
+      {
+        "step": 4,
+        "rebirths": 46873
+      },
+      {
+        "step": 5,
+        "rebirths": 23436
+      },
+      {
+        "step": 6,
+        "rebirths": 11718
+      },
+      {
+        "step": 7,
+        "rebirths": 5859
+      },
+      {
+        "step": 8,
+        "rebirths": 2929
+      },
+      {
+        "step": 9,
+        "rebirths": 1464
+      },
+      {
+        "step": 10,
+        "rebirths": 732
+      },
+      {
+        "step": 11,
+        "rebirths": 366
+      },
+      {
+        "step": 12,
+        "rebirths": 183
+      },
+      {
+        "step": 13,
+        "rebirths": 91
+      },
+      {
+        "step": 14,
+        "rebirths": 45
+      },
+      {
+        "step": 15,
+        "rebirths": 22
+      },
+      {
+        "step": 16,
+        "rebirths": 11
+      },
+      {
+        "step": 17,
+        "rebirths": 5
+      },
+      {
+        "step": 18,
+        "rebirths": 2
+      },
+      {
+        "step": 19,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 20000,
+    "rebirths": 799980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 799980
+      },
+      {
+        "step": 1,
+        "rebirths": 399990
+      },
+      {
+        "step": 2,
+        "rebirths": 199995
+      },
+      {
+        "step": 3,
+        "rebirths": 99997
+      },
+      {
+        "step": 4,
+        "rebirths": 49998
+      },
+      {
+        "step": 5,
+        "rebirths": 24999
+      },
+      {
+        "step": 6,
+        "rebirths": 12499
+      },
+      {
+        "step": 7,
+        "rebirths": 6249
+      },
+      {
+        "step": 8,
+        "rebirths": 3124
+      },
+      {
+        "step": 9,
+        "rebirths": 1562
+      },
+      {
+        "step": 10,
+        "rebirths": 781
+      },
+      {
+        "step": 11,
+        "rebirths": 390
+      },
+      {
+        "step": 12,
+        "rebirths": 195
+      },
+      {
+        "step": 13,
+        "rebirths": 97
+      },
+      {
+        "step": 14,
+        "rebirths": 48
+      },
+      {
+        "step": 15,
+        "rebirths": 24
+      },
+      {
+        "step": 16,
+        "rebirths": 12
+      },
+      {
+        "step": 17,
+        "rebirths": 6
+      },
+      {
+        "step": 18,
+        "rebirths": 3
+      },
+      {
+        "step": 19,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 40000,
+    "rebirths": 799980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 799980
+      },
+      {
+        "step": 1,
+        "rebirths": 399990
+      },
+      {
+        "step": 2,
+        "rebirths": 199995
+      },
+      {
+        "step": 3,
+        "rebirths": 99997
+      },
+      {
+        "step": 4,
+        "rebirths": 49998
+      },
+      {
+        "step": 5,
+        "rebirths": 24999
+      },
+      {
+        "step": 6,
+        "rebirths": 12499
+      },
+      {
+        "step": 7,
+        "rebirths": 6249
+      },
+      {
+        "step": 8,
+        "rebirths": 3124
+      },
+      {
+        "step": 9,
+        "rebirths": 1562
+      },
+      {
+        "step": 10,
+        "rebirths": 781
+      },
+      {
+        "step": 11,
+        "rebirths": 390
+      },
+      {
+        "step": 12,
+        "rebirths": 195
+      },
+      {
+        "step": 13,
+        "rebirths": 97
+      },
+      {
+        "step": 14,
+        "rebirths": 48
+      },
+      {
+        "step": 15,
+        "rebirths": 24
+      },
+      {
+        "step": 16,
+        "rebirths": 12
+      },
+      {
+        "step": 17,
+        "rebirths": 6
+      },
+      {
+        "step": 18,
+        "rebirths": 3
+      },
+      {
+        "step": 19,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 20000,
+    "rebirths": 799980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 799980
+      },
+      {
+        "step": 1,
+        "rebirths": 399990
+      },
+      {
+        "step": 2,
+        "rebirths": 199995
+      },
+      {
+        "step": 3,
+        "rebirths": 99997
+      },
+      {
+        "step": 4,
+        "rebirths": 49998
+      },
+      {
+        "step": 5,
+        "rebirths": 24999
+      },
+      {
+        "step": 6,
+        "rebirths": 12499
+      },
+      {
+        "step": 7,
+        "rebirths": 6249
+      },
+      {
+        "step": 8,
+        "rebirths": 3124
+      },
+      {
+        "step": 9,
+        "rebirths": 1562
+      },
+      {
+        "step": 10,
+        "rebirths": 781
+      },
+      {
+        "step": 11,
+        "rebirths": 390
+      },
+      {
+        "step": 12,
+        "rebirths": 195
+      },
+      {
+        "step": 13,
+        "rebirths": 97
+      },
+      {
+        "step": 14,
+        "rebirths": 48
+      },
+      {
+        "step": 15,
+        "rebirths": 24
+      },
+      {
+        "step": 16,
+        "rebirths": 12
+      },
+      {
+        "step": 17,
+        "rebirths": 6
+      },
+      {
+        "step": 18,
+        "rebirths": 3
+      },
+      {
+        "step": 19,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Punching",
+    "xp": 42500,
+    "rebirths": 849980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 849980
+      },
+      {
+        "step": 1,
+        "rebirths": 424990
+      },
+      {
+        "step": 2,
+        "rebirths": 212495
+      },
+      {
+        "step": 3,
+        "rebirths": 106247
+      },
+      {
+        "step": 4,
+        "rebirths": 53123
+      },
+      {
+        "step": 5,
+        "rebirths": 26561
+      },
+      {
+        "step": 6,
+        "rebirths": 13280
+      },
+      {
+        "step": 7,
+        "rebirths": 6640
+      },
+      {
+        "step": 8,
+        "rebirths": 3320
+      },
+      {
+        "step": 9,
+        "rebirths": 1660
+      },
+      {
+        "step": 10,
+        "rebirths": 830
+      },
+      {
+        "step": 11,
+        "rebirths": 415
+      },
+      {
+        "step": 12,
+        "rebirths": 207
+      },
+      {
+        "step": 13,
+        "rebirths": 103
+      },
+      {
+        "step": 14,
+        "rebirths": 51
+      },
+      {
+        "step": 15,
+        "rebirths": 25
+      },
+      {
+        "step": 16,
+        "rebirths": 12
+      },
+      {
+        "step": 17,
+        "rebirths": 6
+      },
+      {
+        "step": 18,
+        "rebirths": 3
+      },
+      {
+        "step": 19,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 22500,
+    "rebirths": 899980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 899980
+      },
+      {
+        "step": 1,
+        "rebirths": 449990
+      },
+      {
+        "step": 2,
+        "rebirths": 224995
+      },
+      {
+        "step": 3,
+        "rebirths": 112497
+      },
+      {
+        "step": 4,
+        "rebirths": 56248
+      },
+      {
+        "step": 5,
+        "rebirths": 28124
+      },
+      {
+        "step": 6,
+        "rebirths": 14062
+      },
+      {
+        "step": 7,
+        "rebirths": 7031
+      },
+      {
+        "step": 8,
+        "rebirths": 3515
+      },
+      {
+        "step": 9,
+        "rebirths": 1757
+      },
+      {
+        "step": 10,
+        "rebirths": 878
+      },
+      {
+        "step": 11,
+        "rebirths": 439
+      },
+      {
+        "step": 12,
+        "rebirths": 219
+      },
+      {
+        "step": 13,
+        "rebirths": 109
+      },
+      {
+        "step": 14,
+        "rebirths": 54
+      },
+      {
+        "step": 15,
+        "rebirths": 27
+      },
+      {
+        "step": 16,
+        "rebirths": 13
+      },
+      {
+        "step": 17,
+        "rebirths": 6
+      },
+      {
+        "step": 18,
+        "rebirths": 3
+      },
+      {
+        "step": 19,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 22500,
+    "rebirths": 899980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 899980
+      },
+      {
+        "step": 1,
+        "rebirths": 449990
+      },
+      {
+        "step": 2,
+        "rebirths": 224995
+      },
+      {
+        "step": 3,
+        "rebirths": 112497
+      },
+      {
+        "step": 4,
+        "rebirths": 56248
+      },
+      {
+        "step": 5,
+        "rebirths": 28124
+      },
+      {
+        "step": 6,
+        "rebirths": 14062
+      },
+      {
+        "step": 7,
+        "rebirths": 7031
+      },
+      {
+        "step": 8,
+        "rebirths": 3515
+      },
+      {
+        "step": 9,
+        "rebirths": 1757
+      },
+      {
+        "step": 10,
+        "rebirths": 878
+      },
+      {
+        "step": 11,
+        "rebirths": 439
+      },
+      {
+        "step": 12,
+        "rebirths": 219
+      },
+      {
+        "step": 13,
+        "rebirths": 109
+      },
+      {
+        "step": 14,
+        "rebirths": 54
+      },
+      {
+        "step": 15,
+        "rebirths": 27
+      },
+      {
+        "step": 16,
+        "rebirths": 13
+      },
+      {
+        "step": 17,
+        "rebirths": 6
+      },
+      {
+        "step": 18,
+        "rebirths": 3
+      },
+      {
+        "step": 19,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 25000,
+    "rebirths": 999980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 999980
+      },
+      {
+        "step": 1,
+        "rebirths": 499990
+      },
+      {
+        "step": 2,
+        "rebirths": 249995
+      },
+      {
+        "step": 3,
+        "rebirths": 124997
+      },
+      {
+        "step": 4,
+        "rebirths": 62498
+      },
+      {
+        "step": 5,
+        "rebirths": 31249
+      },
+      {
+        "step": 6,
+        "rebirths": 15624
+      },
+      {
+        "step": 7,
+        "rebirths": 7812
+      },
+      {
+        "step": 8,
+        "rebirths": 3906
+      },
+      {
+        "step": 9,
+        "rebirths": 1953
+      },
+      {
+        "step": 10,
+        "rebirths": 976
+      },
+      {
+        "step": 11,
+        "rebirths": 488
+      },
+      {
+        "step": 12,
+        "rebirths": 244
+      },
+      {
+        "step": 13,
+        "rebirths": 122
+      },
+      {
+        "step": 14,
+        "rebirths": 61
+      },
+      {
+        "step": 15,
+        "rebirths": 30
+      },
+      {
+        "step": 16,
+        "rebirths": 15
+      },
+      {
+        "step": 17,
+        "rebirths": 7
+      },
+      {
+        "step": 18,
+        "rebirths": 3
+      },
+      {
+        "step": 19,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 25000,
+    "rebirths": 999980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 999980
+      },
+      {
+        "step": 1,
+        "rebirths": 499990
+      },
+      {
+        "step": 2,
+        "rebirths": 249995
+      },
+      {
+        "step": 3,
+        "rebirths": 124997
+      },
+      {
+        "step": 4,
+        "rebirths": 62498
+      },
+      {
+        "step": 5,
+        "rebirths": 31249
+      },
+      {
+        "step": 6,
+        "rebirths": 15624
+      },
+      {
+        "step": 7,
+        "rebirths": 7812
+      },
+      {
+        "step": 8,
+        "rebirths": 3906
+      },
+      {
+        "step": 9,
+        "rebirths": 1953
+      },
+      {
+        "step": 10,
+        "rebirths": 976
+      },
+      {
+        "step": 11,
+        "rebirths": 488
+      },
+      {
+        "step": 12,
+        "rebirths": 244
+      },
+      {
+        "step": 13,
+        "rebirths": 122
+      },
+      {
+        "step": 14,
+        "rebirths": 61
+      },
+      {
+        "step": 15,
+        "rebirths": 30
+      },
+      {
+        "step": 16,
+        "rebirths": 15
+      },
+      {
+        "step": 17,
+        "rebirths": 7
+      },
+      {
+        "step": 18,
+        "rebirths": 3
+      },
+      {
+        "step": 19,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 27500,
+    "rebirths": 1099980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1099980
+      },
+      {
+        "step": 1,
+        "rebirths": 549990
+      },
+      {
+        "step": 2,
+        "rebirths": 274995
+      },
+      {
+        "step": 3,
+        "rebirths": 137497
+      },
+      {
+        "step": 4,
+        "rebirths": 68748
+      },
+      {
+        "step": 5,
+        "rebirths": 34374
+      },
+      {
+        "step": 6,
+        "rebirths": 17187
+      },
+      {
+        "step": 7,
+        "rebirths": 8593
+      },
+      {
+        "step": 8,
+        "rebirths": 4296
+      },
+      {
+        "step": 9,
+        "rebirths": 2148
+      },
+      {
+        "step": 10,
+        "rebirths": 1074
+      },
+      {
+        "step": 11,
+        "rebirths": 537
+      },
+      {
+        "step": 12,
+        "rebirths": 268
+      },
+      {
+        "step": 13,
+        "rebirths": 134
+      },
+      {
+        "step": 14,
+        "rebirths": 67
+      },
+      {
+        "step": 15,
+        "rebirths": 33
+      },
+      {
+        "step": 16,
+        "rebirths": 16
+      },
+      {
+        "step": 17,
+        "rebirths": 8
+      },
+      {
+        "step": 18,
+        "rebirths": 4
+      },
+      {
+        "step": 19,
+        "rebirths": 2
+      },
+      {
+        "step": 20,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 27500,
+    "rebirths": 1099980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1099980
+      },
+      {
+        "step": 1,
+        "rebirths": 549990
+      },
+      {
+        "step": 2,
+        "rebirths": 274995
+      },
+      {
+        "step": 3,
+        "rebirths": 137497
+      },
+      {
+        "step": 4,
+        "rebirths": 68748
+      },
+      {
+        "step": 5,
+        "rebirths": 34374
+      },
+      {
+        "step": 6,
+        "rebirths": 17187
+      },
+      {
+        "step": 7,
+        "rebirths": 8593
+      },
+      {
+        "step": 8,
+        "rebirths": 4296
+      },
+      {
+        "step": 9,
+        "rebirths": 2148
+      },
+      {
+        "step": 10,
+        "rebirths": 1074
+      },
+      {
+        "step": 11,
+        "rebirths": 537
+      },
+      {
+        "step": 12,
+        "rebirths": 268
+      },
+      {
+        "step": 13,
+        "rebirths": 134
+      },
+      {
+        "step": 14,
+        "rebirths": 67
+      },
+      {
+        "step": 15,
+        "rebirths": 33
+      },
+      {
+        "step": 16,
+        "rebirths": 16
+      },
+      {
+        "step": 17,
+        "rebirths": 8
+      },
+      {
+        "step": 18,
+        "rebirths": 4
+      },
+      {
+        "step": 19,
+        "rebirths": 2
+      },
+      {
+        "step": 20,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 30000,
+    "rebirths": 1199980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1199980
+      },
+      {
+        "step": 1,
+        "rebirths": 599990
+      },
+      {
+        "step": 2,
+        "rebirths": 299995
+      },
+      {
+        "step": 3,
+        "rebirths": 149997
+      },
+      {
+        "step": 4,
+        "rebirths": 74998
+      },
+      {
+        "step": 5,
+        "rebirths": 37499
+      },
+      {
+        "step": 6,
+        "rebirths": 18749
+      },
+      {
+        "step": 7,
+        "rebirths": 9374
+      },
+      {
+        "step": 8,
+        "rebirths": 4687
+      },
+      {
+        "step": 9,
+        "rebirths": 2343
+      },
+      {
+        "step": 10,
+        "rebirths": 1171
+      },
+      {
+        "step": 11,
+        "rebirths": 585
+      },
+      {
+        "step": 12,
+        "rebirths": 292
+      },
+      {
+        "step": 13,
+        "rebirths": 146
+      },
+      {
+        "step": 14,
+        "rebirths": 73
+      },
+      {
+        "step": 15,
+        "rebirths": 36
+      },
+      {
+        "step": 16,
+        "rebirths": 18
+      },
+      {
+        "step": 17,
+        "rebirths": 9
+      },
+      {
+        "step": 18,
+        "rebirths": 4
+      },
+      {
+        "step": 19,
+        "rebirths": 2
+      },
+      {
+        "step": 20,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 30000,
+    "rebirths": 1199980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1199980
+      },
+      {
+        "step": 1,
+        "rebirths": 599990
+      },
+      {
+        "step": 2,
+        "rebirths": 299995
+      },
+      {
+        "step": 3,
+        "rebirths": 149997
+      },
+      {
+        "step": 4,
+        "rebirths": 74998
+      },
+      {
+        "step": 5,
+        "rebirths": 37499
+      },
+      {
+        "step": 6,
+        "rebirths": 18749
+      },
+      {
+        "step": 7,
+        "rebirths": 9374
+      },
+      {
+        "step": 8,
+        "rebirths": 4687
+      },
+      {
+        "step": 9,
+        "rebirths": 2343
+      },
+      {
+        "step": 10,
+        "rebirths": 1171
+      },
+      {
+        "step": 11,
+        "rebirths": 585
+      },
+      {
+        "step": 12,
+        "rebirths": 292
+      },
+      {
+        "step": 13,
+        "rebirths": 146
+      },
+      {
+        "step": 14,
+        "rebirths": 73
+      },
+      {
+        "step": 15,
+        "rebirths": 36
+      },
+      {
+        "step": 16,
+        "rebirths": 18
+      },
+      {
+        "step": 17,
+        "rebirths": 9
+      },
+      {
+        "step": 18,
+        "rebirths": 4
+      },
+      {
+        "step": 19,
+        "rebirths": 2
+      },
+      {
+        "step": 20,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 32500,
+    "rebirths": 1299980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1299980
+      },
+      {
+        "step": 1,
+        "rebirths": 649990
+      },
+      {
+        "step": 2,
+        "rebirths": 324995
+      },
+      {
+        "step": 3,
+        "rebirths": 162497
+      },
+      {
+        "step": 4,
+        "rebirths": 81248
+      },
+      {
+        "step": 5,
+        "rebirths": 40624
+      },
+      {
+        "step": 6,
+        "rebirths": 20312
+      },
+      {
+        "step": 7,
+        "rebirths": 10156
+      },
+      {
+        "step": 8,
+        "rebirths": 5078
+      },
+      {
+        "step": 9,
+        "rebirths": 2539
+      },
+      {
+        "step": 10,
+        "rebirths": 1269
+      },
+      {
+        "step": 11,
+        "rebirths": 634
+      },
+      {
+        "step": 12,
+        "rebirths": 317
+      },
+      {
+        "step": 13,
+        "rebirths": 158
+      },
+      {
+        "step": 14,
+        "rebirths": 79
+      },
+      {
+        "step": 15,
+        "rebirths": 39
+      },
+      {
+        "step": 16,
+        "rebirths": 19
+      },
+      {
+        "step": 17,
+        "rebirths": 9
+      },
+      {
+        "step": 18,
+        "rebirths": 4
+      },
+      {
+        "step": 19,
+        "rebirths": 2
+      },
+      {
+        "step": 20,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 32500,
+    "rebirths": 1299980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1299980
+      },
+      {
+        "step": 1,
+        "rebirths": 649990
+      },
+      {
+        "step": 2,
+        "rebirths": 324995
+      },
+      {
+        "step": 3,
+        "rebirths": 162497
+      },
+      {
+        "step": 4,
+        "rebirths": 81248
+      },
+      {
+        "step": 5,
+        "rebirths": 40624
+      },
+      {
+        "step": 6,
+        "rebirths": 20312
+      },
+      {
+        "step": 7,
+        "rebirths": 10156
+      },
+      {
+        "step": 8,
+        "rebirths": 5078
+      },
+      {
+        "step": 9,
+        "rebirths": 2539
+      },
+      {
+        "step": 10,
+        "rebirths": 1269
+      },
+      {
+        "step": 11,
+        "rebirths": 634
+      },
+      {
+        "step": 12,
+        "rebirths": 317
+      },
+      {
+        "step": 13,
+        "rebirths": 158
+      },
+      {
+        "step": 14,
+        "rebirths": 79
+      },
+      {
+        "step": 15,
+        "rebirths": 39
+      },
+      {
+        "step": 16,
+        "rebirths": 19
+      },
+      {
+        "step": 17,
+        "rebirths": 9
+      },
+      {
+        "step": 18,
+        "rebirths": 4
+      },
+      {
+        "step": 19,
+        "rebirths": 2
+      },
+      {
+        "step": 20,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 35000,
+    "rebirths": 1399980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1399980
+      },
+      {
+        "step": 1,
+        "rebirths": 699990
+      },
+      {
+        "step": 2,
+        "rebirths": 349995
+      },
+      {
+        "step": 3,
+        "rebirths": 174997
+      },
+      {
+        "step": 4,
+        "rebirths": 87498
+      },
+      {
+        "step": 5,
+        "rebirths": 43749
+      },
+      {
+        "step": 6,
+        "rebirths": 21874
+      },
+      {
+        "step": 7,
+        "rebirths": 10937
+      },
+      {
+        "step": 8,
+        "rebirths": 5468
+      },
+      {
+        "step": 9,
+        "rebirths": 2734
+      },
+      {
+        "step": 10,
+        "rebirths": 1367
+      },
+      {
+        "step": 11,
+        "rebirths": 683
+      },
+      {
+        "step": 12,
+        "rebirths": 341
+      },
+      {
+        "step": 13,
+        "rebirths": 170
+      },
+      {
+        "step": 14,
+        "rebirths": 85
+      },
+      {
+        "step": 15,
+        "rebirths": 42
+      },
+      {
+        "step": 16,
+        "rebirths": 21
+      },
+      {
+        "step": 17,
+        "rebirths": 10
+      },
+      {
+        "step": 18,
+        "rebirths": 5
+      },
+      {
+        "step": 19,
+        "rebirths": 2
+      },
+      {
+        "step": 20,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 35000,
+    "rebirths": 1399980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1399980
+      },
+      {
+        "step": 1,
+        "rebirths": 699990
+      },
+      {
+        "step": 2,
+        "rebirths": 349995
+      },
+      {
+        "step": 3,
+        "rebirths": 174997
+      },
+      {
+        "step": 4,
+        "rebirths": 87498
+      },
+      {
+        "step": 5,
+        "rebirths": 43749
+      },
+      {
+        "step": 6,
+        "rebirths": 21874
+      },
+      {
+        "step": 7,
+        "rebirths": 10937
+      },
+      {
+        "step": 8,
+        "rebirths": 5468
+      },
+      {
+        "step": 9,
+        "rebirths": 2734
+      },
+      {
+        "step": 10,
+        "rebirths": 1367
+      },
+      {
+        "step": 11,
+        "rebirths": 683
+      },
+      {
+        "step": 12,
+        "rebirths": 341
+      },
+      {
+        "step": 13,
+        "rebirths": 170
+      },
+      {
+        "step": 14,
+        "rebirths": 85
+      },
+      {
+        "step": 15,
+        "rebirths": 42
+      },
+      {
+        "step": 16,
+        "rebirths": 21
+      },
+      {
+        "step": 17,
+        "rebirths": 10
+      },
+      {
+        "step": 18,
+        "rebirths": 5
+      },
+      {
+        "step": 19,
+        "rebirths": 2
+      },
+      {
+        "step": 20,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 37500,
+    "rebirths": 1499980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1499980
+      },
+      {
+        "step": 1,
+        "rebirths": 749990
+      },
+      {
+        "step": 2,
+        "rebirths": 374995
+      },
+      {
+        "step": 3,
+        "rebirths": 187497
+      },
+      {
+        "step": 4,
+        "rebirths": 93748
+      },
+      {
+        "step": 5,
+        "rebirths": 46874
+      },
+      {
+        "step": 6,
+        "rebirths": 23437
+      },
+      {
+        "step": 7,
+        "rebirths": 11718
+      },
+      {
+        "step": 8,
+        "rebirths": 5859
+      },
+      {
+        "step": 9,
+        "rebirths": 2929
+      },
+      {
+        "step": 10,
+        "rebirths": 1464
+      },
+      {
+        "step": 11,
+        "rebirths": 732
+      },
+      {
+        "step": 12,
+        "rebirths": 366
+      },
+      {
+        "step": 13,
+        "rebirths": 183
+      },
+      {
+        "step": 14,
+        "rebirths": 91
+      },
+      {
+        "step": 15,
+        "rebirths": 45
+      },
+      {
+        "step": 16,
+        "rebirths": 22
+      },
+      {
+        "step": 17,
+        "rebirths": 11
+      },
+      {
+        "step": 18,
+        "rebirths": 5
+      },
+      {
+        "step": 19,
+        "rebirths": 2
+      },
+      {
+        "step": 20,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 37500,
+    "rebirths": 1499980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1499980
+      },
+      {
+        "step": 1,
+        "rebirths": 749990
+      },
+      {
+        "step": 2,
+        "rebirths": 374995
+      },
+      {
+        "step": 3,
+        "rebirths": 187497
+      },
+      {
+        "step": 4,
+        "rebirths": 93748
+      },
+      {
+        "step": 5,
+        "rebirths": 46874
+      },
+      {
+        "step": 6,
+        "rebirths": 23437
+      },
+      {
+        "step": 7,
+        "rebirths": 11718
+      },
+      {
+        "step": 8,
+        "rebirths": 5859
+      },
+      {
+        "step": 9,
+        "rebirths": 2929
+      },
+      {
+        "step": 10,
+        "rebirths": 1464
+      },
+      {
+        "step": 11,
+        "rebirths": 732
+      },
+      {
+        "step": 12,
+        "rebirths": 366
+      },
+      {
+        "step": 13,
+        "rebirths": 183
+      },
+      {
+        "step": 14,
+        "rebirths": 91
+      },
+      {
+        "step": 15,
+        "rebirths": 45
+      },
+      {
+        "step": 16,
+        "rebirths": 22
+      },
+      {
+        "step": 17,
+        "rebirths": 11
+      },
+      {
+        "step": 18,
+        "rebirths": 5
+      },
+      {
+        "step": 19,
+        "rebirths": 2
+      },
+      {
+        "step": 20,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 40000,
+    "rebirths": 1599980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1599980
+      },
+      {
+        "step": 1,
+        "rebirths": 799990
+      },
+      {
+        "step": 2,
+        "rebirths": 399995
+      },
+      {
+        "step": 3,
+        "rebirths": 199997
+      },
+      {
+        "step": 4,
+        "rebirths": 99998
+      },
+      {
+        "step": 5,
+        "rebirths": 49999
+      },
+      {
+        "step": 6,
+        "rebirths": 24999
+      },
+      {
+        "step": 7,
+        "rebirths": 12499
+      },
+      {
+        "step": 8,
+        "rebirths": 6249
+      },
+      {
+        "step": 9,
+        "rebirths": 3124
+      },
+      {
+        "step": 10,
+        "rebirths": 1562
+      },
+      {
+        "step": 11,
+        "rebirths": 781
+      },
+      {
+        "step": 12,
+        "rebirths": 390
+      },
+      {
+        "step": 13,
+        "rebirths": 195
+      },
+      {
+        "step": 14,
+        "rebirths": 97
+      },
+      {
+        "step": 15,
+        "rebirths": 48
+      },
+      {
+        "step": 16,
+        "rebirths": 24
+      },
+      {
+        "step": 17,
+        "rebirths": 12
+      },
+      {
+        "step": 18,
+        "rebirths": 6
+      },
+      {
+        "step": 19,
+        "rebirths": 3
+      },
+      {
+        "step": 20,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 40000,
+    "rebirths": 1599980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1599980
+      },
+      {
+        "step": 1,
+        "rebirths": 799990
+      },
+      {
+        "step": 2,
+        "rebirths": 399995
+      },
+      {
+        "step": 3,
+        "rebirths": 199997
+      },
+      {
+        "step": 4,
+        "rebirths": 99998
+      },
+      {
+        "step": 5,
+        "rebirths": 49999
+      },
+      {
+        "step": 6,
+        "rebirths": 24999
+      },
+      {
+        "step": 7,
+        "rebirths": 12499
+      },
+      {
+        "step": 8,
+        "rebirths": 6249
+      },
+      {
+        "step": 9,
+        "rebirths": 3124
+      },
+      {
+        "step": 10,
+        "rebirths": 1562
+      },
+      {
+        "step": 11,
+        "rebirths": 781
+      },
+      {
+        "step": 12,
+        "rebirths": 390
+      },
+      {
+        "step": 13,
+        "rebirths": 195
+      },
+      {
+        "step": 14,
+        "rebirths": 97
+      },
+      {
+        "step": 15,
+        "rebirths": 48
+      },
+      {
+        "step": 16,
+        "rebirths": 24
+      },
+      {
+        "step": 17,
+        "rebirths": 12
+      },
+      {
+        "step": 18,
+        "rebirths": 6
+      },
+      {
+        "step": 19,
+        "rebirths": 3
+      },
+      {
+        "step": 20,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Tiny",
+    "rock": "Rock",
+    "xp": 42500,
+    "rebirths": 1699980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1699980
+      },
+      {
+        "step": 1,
+        "rebirths": 849990
+      },
+      {
+        "step": 2,
+        "rebirths": 424995
+      },
+      {
+        "step": 3,
+        "rebirths": 212497
+      },
+      {
+        "step": 4,
+        "rebirths": 106248
+      },
+      {
+        "step": 5,
+        "rebirths": 53124
+      },
+      {
+        "step": 6,
+        "rebirths": 26562
+      },
+      {
+        "step": 7,
+        "rebirths": 13281
+      },
+      {
+        "step": 8,
+        "rebirths": 6640
+      },
+      {
+        "step": 9,
+        "rebirths": 3320
+      },
+      {
+        "step": 10,
+        "rebirths": 1660
+      },
+      {
+        "step": 11,
+        "rebirths": 830
+      },
+      {
+        "step": 12,
+        "rebirths": 415
+      },
+      {
+        "step": 13,
+        "rebirths": 207
+      },
+      {
+        "step": 14,
+        "rebirths": 103
+      },
+      {
+        "step": 15,
+        "rebirths": 51
+      },
+      {
+        "step": 16,
+        "rebirths": 25
+      },
+      {
+        "step": 17,
+        "rebirths": 12
+      },
+      {
+        "step": 18,
+        "rebirths": 6
+      },
+      {
+        "step": 19,
+        "rebirths": 3
+      },
+      {
+        "step": 20,
+        "rebirths": 1
+      }
+    ]
+  },
+  {
+    "item_type": "Pets",
+    "item_name": "Advanced",
+    "world": "Spawn",
+    "rock": "Tiny",
+    "xp": 42500,
+    "rebirths": 1699980,
+    "glitch_chain": [
+      {
+        "step": 0,
+        "rebirths": 1699980
+      },
+      {
+        "step": 1,
+        "rebirths": 849990
+      },
+      {
+        "step": 2,
+        "rebirths": 424995
+      },
+      {
+        "step": 3,
+        "rebirths": 212497
+      },
+      {
+        "step": 4,
+        "rebirths": 106248
+      },
+      {
+        "step": 5,
+        "rebirths": 53124
+      },
+      {
+        "step": 6,
+        "rebirths": 26562
+      },
+      {
+        "step": 7,
+        "rebirths": 13281
+      },
+      {
+        "step": 8,
+        "rebirths": 6640
+      },
+      {
+        "step": 9,
+        "rebirths": 3320
+      },
+      {
+        "step": 10,
+        "rebirths": 1660
+      },
+      {
+        "step": 11,
+        "rebirths": 830
+      },
+      {
+        "step": 12,
+        "rebirths": 415
+      },
+      {
+        "step": 13,
+        "rebirths": 207
+      },
+      {
+        "step": 14,
+        "rebirths": 103
+      },
+      {
+        "step": 15,
+        "rebirths": 51
+      },
+      {
+        "step": 16,
+        "rebirths": 25
+      },
+      {
+        "step": 17,
+        "rebirths": 12
+      },
+      {
+        "step": 18,
+        "rebirths": 6
+      },
+      {
+        "step": 19,
+        "rebirths": 3
+      },
+      {
+        "step": 20,
+        "rebirths": 1
+      }
+    ]
+  }
+]
